@@ -1,6 +1,11 @@
 \usepackage{xeCJK}
 \usepackage{newunicodechar}
+\usepackage{endnotes}
+\let\footnote=\endnote
+\renewcommand{\enoteheading}{}
 \setCJKmainfont{Hiragino Mincho ProN}
 \setCJKsansfont{Hiragino Kaku Gothic ProN}
 \setCJKmonofont{Hiragino Kaku Gothic ProN}
 \newunicodechar{―}{---}
+\usepackage{titlesec}
+\newcommand{\sectionbreak}{\clearpage}

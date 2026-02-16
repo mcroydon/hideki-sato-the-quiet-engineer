@@ -42,13 +42,14 @@ BACKMATTER=(
 )
 
 ALL_FILES=("${CHAPTERS[@]}" "${BACKMATTER[@]}")
+PDF_FILES=("${ALL_FILES[@]}" supplementary/endnotes.md)
 
 # --- Common pandoc options ---
+# --number-sections
 COMMON=(
   --from markdown
   --toc
   --toc-depth=2
-  --number-sections
   --metadata-file="$META"
   --standalone
   --file-scope
@@ -85,9 +86,9 @@ for engine in weasyprint tectonic xelatex lualatex pdflatex; do
     fi
     pandoc "${COMMON[@]}" \
       --pdf-engine="$engine" \
-      "${PDF_EXTRA[@]}" \
+      ${PDF_EXTRA[@]+"${PDF_EXTRA[@]}"} \
       --output "$OUTDIR/hideki-sato-the-quiet-engineer.pdf" \
-      "${ALL_FILES[@]}" 2>&1 && { echo "  -> $OUTDIR/hideki-sato-the-quiet-engineer.pdf"; PDF_BUILT=true; break; } || echo "  $engine failed, trying next..."
+      "${PDF_FILES[@]}" 2>&1 && { echo "  -> $OUTDIR/hideki-sato-the-quiet-engineer.pdf"; PDF_BUILT=true; break; } || echo "  $engine failed, trying next..."
   fi
 done
 
