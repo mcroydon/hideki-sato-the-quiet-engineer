@@ -12,13 +12,13 @@ By late 1997, this silence had settled over Sega like weather.
 
 ## The Weight of Numbers
 
-The Saturn was not supposed to fail. No console ever is, of course — no company builds hardware expecting to lose — but the Saturn carried heavier expectations than most. It was Sega's answer to the thirty-two-bit era, the successor to the Genesis, the machine that was meant to prove that Sega's dominance in the sixteen-bit generation was not a fluke but the beginning of a dynasty. Hideki Sato had poured everything he knew into its design — the dual Hitachi SH-2 processors, the twin video display processors, the architecture that was supposed to deliver both the sprite-based 2D games that Sega's arcade division excelled at and the polygon-based 3D that Sony's PlayStation was promising.[^1]
+The Saturn was not supposed to fail. No console ever is, of course — no company builds hardware expecting to lose — but the Saturn carried heavier expectations than most. It was Sega's answer to the thirty-two-bit era, the successor to the Genesis, the machine that was meant to prove that Sega's dominance in the sixteen-bit generation was not a fluke but the beginning of a dynasty. Hideki Sato had poured everything he knew into its design — the ambitious architecture whose complexities and compromises we have already traced in detail.[^1]
 
 Instead, the Saturn had become an object lesson in how a technically ambitious machine could be defeated by forces that had nothing to do with the quality of its silicon.
 
 The sales figures told the story with brutal efficiency. Worldwide, the Saturn moved approximately 9.26 million units — respectable in isolation, but catastrophic in context.[^2] Sony's PlayStation, which had launched within weeks of the Saturn, was on its way to selling over 102 million.[^3] Even Nintendo's cartridge-based N64, which arrived two years late and carried its own set of liabilities, would outsell the Saturn by a factor of nearly four to one.[^4] In the United States, where the sixteen-bit Genesis had once commanded 65 percent market share, the Saturn had limped to approximately 1.8 million units — a rounding error in a market that Sony was consuming whole.[^5]
 
-The financial toll was devastating. Each Saturn unit sold generated a loss of approximately 10,000 yen — roughly $80 at prevailing exchange rates — because Sega had been forced to price the console below its manufacturing cost to compete with the PlayStation's aggressive $299 price point.[^6] When software sales could not offset the hardware losses, Sega had deliberately constrained production, creating a vicious cycle: fewer consoles meant fewer game sales, which meant less revenue to offset the losses, which meant less justification for building more consoles.[^7]
+The financial toll was devastating. Each Saturn unit sold generated a loss of approximately 10,000 yen — roughly $100 at mid-1990s exchange rates — because Sega had been forced to price the console below its manufacturing cost to compete with the PlayStation's aggressive $299 price point.[^6] When software sales could not offset the hardware losses, Sega had deliberately constrained production, creating a vicious cycle: fewer consoles meant fewer game sales, which meant less revenue to offset the losses, which meant less justification for building more consoles.[^7]
 
 In the fiscal year ending March 31, 1998, Sega posted its first consolidated financial loss since listing on the Tokyo Stock Exchange in 1988 — a net loss of 35.6 billion yen, approximately $270 million.[^8] Consumer product sales had declined by 54.8 percent, with overseas sales collapsing by 75.4 percent.[^9] The company that had once generated revenues of 354 billion yen — its peak in fiscal year 1994, the glory days of the Genesis — was now watching its business implode.[^10]
 
@@ -30,21 +30,17 @@ The Saturn had not caused Sega's crisis. It had inherited one.
 
 But if the Saturn did not start the bleeding, it had done nothing to stop it. The machine's problems were legion, and they compounded each other with the remorseless logic of a system failure.
 
-Start with the surprise launch. In May 1995, at the first Electronic Entertainment Expo in Los Angeles, Sega of America's Tom Kalinske had revealed that the Saturn was available immediately at select retailers — four months ahead of the planned September launch date, shipped to just four retail chains at a price of $399.[^15] The decision had been mandated by Sega of Japan, which believed that getting to market ahead of Sony's PlayStation was worth the risks. It was not. Retailers who had been excluded from the early launch were furious. KB Toys, one of America's largest toy chains, responded by refusing to carry the Saturn at all.[^16] The console launched with only six games, all published by Sega, because third-party developers had been building their schedules around the original September date.[^17]
+Start with the surprise launch — the catastrophe at E3 that has already been recounted in full.[^15] The alienated retailers, the six-game library, the hundred-dollar price gap with the PlayStation — each of these wounds, inflicted in a single week in May 1995, had compounded into a cascade of institutional damage.[^16] Within two days of the PlayStation's own North American launch in September, Sony had sold more units than the Saturn had managed in five months.[^17]
 
-And then, moments after Kalinske's announcement, Sony had delivered the most devastating single word in the history of the video game industry. Steve Race, a Sony executive, walked to the microphone, said "$299," and walked away to thunderous applause.[^18] In that instant, the Saturn's hundred-dollar price premium became not merely a commercial disadvantage but a public humiliation. Within two days of its own North American launch in September, the PlayStation had sold more units than the Saturn had managed in five months.[^19]
-
-Then there was the architecture itself — Sato's architecture, the one he had designed and redesigned under impossible pressure. The dual-SH2 configuration that he had implemented in response to Sony's polygon-pushing specifications had made the Saturn a formidable machine on paper, but it had also made it the most difficult console of its generation to program. Both SH-2 processors shared the same bus and could not access system memory simultaneously, creating contention issues that limited effective parallelism.[^20] Sega's own engineers estimated that only one in a hundred programmers could extract the full performance from the dual-CPU setup; most could manage, at best, one-and-a-half times the speed of a single processor.[^21]
-
-The development tools were worse. Early Saturn development had required programming in assembly language exclusively — there were no compilers, no high-level libraries, no abstractions to ease the burden.[^22] Third-party developers, accustomed to the relatively straightforward architectures of the Genesis and the emerging PlayStation, found themselves unable to get anything on screen for a week or more.[^23] Sony, by contrast, had visited over a hundred Japanese studios, offering development kits based on standard PC hardware with familiar programming environments and a straightforward, single-CPU architecture.[^24] The PlayStation was, as one retrospective put it, "a developer's dream." The Saturn was a developer's nightmare.
+Then there was the architecture itself — the dual-CPU complexity, the inadequate development tools, the eight-processor labyrinth that had made the Saturn the most difficult console of its generation to program.[^20] These problems, examined at length in earlier chapters, had a cumulative financial consequence: they drove developers to the PlayStation, thinning the Saturn's software library, which in turn suppressed hardware sales, which in turn deepened the per-unit losses. Every technical difficulty translated, eventually, into a line item on a balance sheet.[^21]
 
 And underneath it all was the strategic fragmentation that had preceded the Saturn entirely — the Sega CD, the 32X, the bewildering array of add-ons and peripherals that had fractured Sega's installed base, exhausted consumer goodwill, and taught a generation of players that buying a Sega product meant committing to a platform that might be abandoned within months.[^25] By the time the Saturn arrived, Sega had already spent its credibility.
 
 ## The Man from Honda
 
-In January 1998, Hayao Nakayama resigned as president of Sega.[^26]
+In January 1998, Hayao Nakayama was removed as president of Sega.[^26]
 
-Nakayama had been the man who had pushed Sega into the console business in the first place — the jukebox repairman turned CEO who had seen the arcade downturn of the early 1980s as a reason to diversify into home hardware. Under his leadership, Sega had launched every console from the SG-1000 through the Saturn, had battled Nintendo to a near-draw in the sixteen-bit generation, and had built a company that at its peak generated more than three billion dollars in annual revenue. But the Saturn's failure was his failure too, and in the consensus-driven culture of Japanese corporate life, the weight of that failure required a reckoning at the top.
+Nakayama had been the man who had pushed Sega into the console business in the first place — the jukebox repairman turned CEO who had seen the arcade downturn of the early 1980s as a reason to diversify into home hardware. Under his leadership, Sega had launched every console from the SG-1000 through the Saturn, had battled Nintendo to a near-draw in the sixteen-bit generation, and had built a company that at its peak generated more than three billion dollars in annual revenue. But the Saturn's failure was his failure, the surprise launch had been his mandate, and the financial irregularities that Okawa had uncovered — the billions in loans flowing to overseas subsidiaries — had happened on his watch. The official announcement framed it as a resignation. No one mistook it for anything else.[^26a]
 
 His replacement was an outsider — and a deliberate one.
 
@@ -62,37 +58,29 @@ There were compelling reasons to stop. The console hardware business had reveale
 
 Sega had none of these advantages. It was a midsized Japanese entertainment company with a balance sheet that was deteriorating by the quarter, a brand that had been damaged by the Saturn's underperformance and the 32X debacle before it, and a relationship with third-party publishers that ranged from strained to nonexistent. Some of the most important developers in the industry — Electronic Arts, Square — had already signaled their disinterest in supporting Sega's platforms. The smart money, the rational calculation, said: stop making hardware. Become a software company. License your franchises. Let someone else take the manufacturing risk.
 
-This was not just the view of outside analysts. It was the explicit recommendation of Sega's most formidable competitor. Ken Kutaragi, the architect of the PlayStation — the man who had designed the machine that had destroyed the Saturn — reportedly told Sato directly that Sega should abandon hardware entirely and become a third-party developer for Sony.[^30] The suggestion was not made in malice; it was, from Kutaragi's perspective, simple logic. Sega made great games. Sony made great hardware. Why not combine the two?
-
-For Sato, the suggestion must have landed with the force of an insult wrapped in a compliment. Kutaragi was telling him, in effect, that the thing he had spent his career doing — designing the machines that brought games to life — was no longer worth doing. That Sega's hardware engineering capability, the capability that Sato had built and led through five console generations, was an anachronism. That the "Father of Sega Hardware" should accept the death of the thing he had fathered.
+This was not just the view of outside analysts. It was the explicit recommendation of Sega's most formidable competitor. Kutaragi's entreaties at those dinners — "Hideki-chan, please give up!" — were not cruel. They were candid, rooted in the structural mathematics of Sony's vertical integration and Sega's dependency on suppliers.[^30] But for Sato, each dinner was a reminder that the man who had designed the machine destroying his own was telling him, with genuine warmth, that the thing he had spent his career doing was no longer worth doing.
 
 ## What Went Wrong
 
 But before Sega could decide whether to try again, it had to understand why the Saturn had failed. And here Sato's assessment was clear-eyed to the point of being painful.
 
-The Saturn's failure was not, fundamentally, a technical failure. The machine was powerful — in some respects, particularly its 2D capabilities, it was the most capable console of its generation. Games like *Virtua Fighter 2*, *Panzer Dragoon Saga*, and *NiGHTS into Dreams* demonstrated that in the hands of skilled programmers, the Saturn could produce experiences that rivaled or exceeded anything on the PlayStation.[^31] The problem was that those skilled programmers were vanishingly rare, and Sega had made their lives unnecessarily difficult.
+The Saturn's failure was not, fundamentally, a technical failure. The machine was powerful — the previous chapters have shown what it could do in the right hands.[^31] The problem was that the right hands were vanishingly rare, and Sega had made their work unnecessarily difficult.
 
-Sato would later express his most pointed regret in terms that went to the heart of his design philosophy. He wished he had based the Saturn on Sega's Model 1 arcade board architecture — the dedicated 3D geometry hardware that powered games like *Virtua Fighter* and *Virtua Racing* in the arcades.[^32] The Model 1 and its successor, the Model 2, were proven platforms for exactly the kind of polygon-based 3D rendering that the thirty-two-bit generation demanded. But when Sato had been designing the Saturn, the arcade developers using those boards had been unavailable to contribute to the console project — a consequence of the organizational silos within Sega that kept its arcade and consumer divisions operating in parallel rather than in concert.[^33] Sato had been forced to improvise, implementing pseudo-polygons through a sprite architecture with geometry engine support rather than building on the purpose-designed 3D hardware that already existed within his own company.
+The technical lessons — the architecture that should have been based on Model 1, the reactive dual-CPU pivot, the development tools that Sato himself admitted were "really just portions of application software" — have been examined.[^32] What mattered now, in the reckoning, was the cumulative weight. It was not any single failure but the interaction of failures: an architecture too complex for most developers, launched too early for its own ecosystem, priced too high against the competition, sold by a company at war with itself. The silicon worked. The architecture functioned. But the system — the business system, the organizational system, the ecosystem of developers and retailers and consumers — had collapsed.
 
-It was a strategic failure, not an engineering one. The silicon worked. The architecture functioned. But the choices about *which* architecture to build — choices shaped by organizational politics, competitive panic, and the fog of a console war — had produced a machine that was too complex for most developers to exploit and too expensive for Sega to sell at a profit.
-
-The lessons were agonizing in their clarity. First: developer accessibility mattered more than raw power. A console that only one in a hundred programmers could fully utilize was, for practical purposes, operating at a fraction of its capability. Second: reactive design — adding a second CPU in response to a competitor's announcement, pivoting from 2D to 3D in the middle of development — produced compromised architectures. Third: the relationship between arcade hardware and consumer hardware, which had been Sega's greatest strength in the Genesis era, needed to be actively managed, not left to organizational happenstance.
-
-And fourth, perhaps most importantly: the hardware was only part of the equation. The surprise launch, the retail alienation, the pricing miscalculation, the inadequate development tools, the SOJ-SOA conflicts that had undermined strategy at every turn — these were failures of management, marketing, and organizational coherence. They were the kinds of failures that no amount of engineering brilliance could overcome.
+The lessons were agonizing in their clarity. Developer accessibility mattered more than raw power. Reactive design produced compromised architectures. The arcade-to-home pipeline needed to be managed, not left to organizational happenstance. And the hardware was only part of the equation — perhaps the smallest part.[^33]
 
 ## Killing the Saturn
 
-Bernie Stolar arrived at Sega of America in 1996, recruited to replace Tom Kalinske as president and COO after Kalinske's departure.[^34] His credentials were impeccable and, for Sega, bitterly ironic: Stolar had previously been instrumental in launching the PlayStation at Sony. He knew, better than almost anyone, what a successful console strategy looked like. He also knew, with equal clarity, what a failing one looked like.
+Stolar's kill order — "We have to kill the Saturn" — has been recounted in the previous chapters, along with its effect on Sato's engineering team.[^34] What belongs to this chapter is the financial reality that made the order inevitable, and the discovery that made it devastating.
 
-His diagnosis was immediate and unsparing. "We have to kill the Saturn," Stolar declared.[^35]
+The Saturn continued to sell in Japan, where it found a loyal audience of approximately 5.75 million — actually outselling the Genesis's 3.58 million in the Japanese market.[^35] But the American and European markets had been lost. Saturn production was wound down — in the United States and Europe by 1998, in Japan by 2000.[^36]
 
-It was a statement that carried the blunt force of triage. Stolar had assessed the Saturn's position in the North American market — the installed base, the software pipeline, the developer relationships, the competitive trajectory — and concluded that the console was beyond saving. Every dollar spent supporting the Saturn in America was a dollar that could not be spent preparing for whatever came next. His strategy was to minimize Saturn software releases in the U.S., keep the company financially alive, and focus all forward-looking energy on Sega's next console.[^36]
+And then Okawa Isao, the chairman of CSK and Sega's controlling shareholder, began looking at the books.
 
-For the engineers in Japan who had designed the Saturn, who had worked through the architecture debates and the development crises and the manufacturing challenges, Stolar's pronouncement was a death sentence delivered by a man who had just arrived from the enemy's camp. That it was also, in cold commercial terms, probably correct only made it more difficult to accept.
+What Okawa discovered was worse than anyone had imagined. Massive loans had been flowing to Sega's overseas subsidiaries — thirty-five billion yen to Sega of America, over twenty billion more to Europe. Under standalone accounting, the practice had been camouflaged: the lending appeared as assets on the parent company's balance sheet, and subsidiary purchases were booked as revenue. It was not fraud, exactly — it was the kind of creative accounting that metastasizes inside companies where divisions operate as fiefdoms and no one looks too closely at the transfers between them. When Okawa finally understood the full picture, he was furious.[^36a]
 
-The Saturn continued to sell in Japan, where it found a loyal audience of approximately 5.75 million — actually outselling the Genesis's 3.58 million in the Japanese market.[^37] Games like *Radiant Silvergun* and *Panzer Dragoon Saga* demonstrated the hardware's potential and built a devoted following that persists to this day. But the American and European markets — the markets where volumes were large enough to sustain a global platform — had been lost.
-
-Saturn production was wound down. In the United States and Europe, support effectively ended in 1998; in Japan, the console continued until 2000.[^38] The machine that Sato had designed, that he had agonized over, that he had rebuilt mid-development in response to the PlayStation threat, was being put to rest.
+It was this discovery, as much as the Saturn's commercial failure, that precipitated the change at the top.
 
 ## The Emotional Physics of Failure
 
@@ -132,7 +120,7 @@ That competition, and the console it produced, would define the final chapter of
 
 In the winter of 1997-98, Sega occupied a strange and precarious position. The Saturn was dying. The Dreamcast was not yet born. The company was losing money, losing market share, and watching its competitors grow stronger by the quarter. Nakayama had stepped down. Irimajiri was installed but untested. Two competing hardware teams were racing toward the same goal through different paths. And the fundamental question — whether Sega could survive another console cycle, whether the market would give the company one more chance after the Saturn and the 32X and the Sega CD and the accumulated weight of half a decade's worth of missteps — remained unanswered.
 
-For Sato, this was the valley. The lowest point of a career that had begun in 1971, when he had walked into Sega's R&D division as a twenty-two-year-old engineering graduate, full of the quiet confidence that comes from knowing you can build things that work. Twenty-six years later, he had risen to corporate senior vice president and deputy general manager of the consumer business.[^46] He had designed or overseen the design of every home console the company had ever produced. He had negotiated the deal that put the Motorola 68000 in the Genesis. He had chosen the Hitachi SH-2 for the Saturn and was now championing his own vision for the next machine against a rival team's competing design. He had watched his machines succeed and fail, had felt the elation of the Genesis years and the agony of the Saturn's decline.
+For Sato, this was the valley. The lowest point of a career that had begun in 1971, when he had walked into Sega's R&D division as a twenty-year-old engineering graduate, full of the quiet confidence that comes from knowing you can build things that work. Twenty-six years later, he had risen to corporate senior vice president and deputy general manager of the consumer business.[^46] He had designed or overseen the design of every home console the company had ever produced. He had negotiated the deal that put the Motorola 68000 in the Genesis. He had chosen the Hitachi SH-2 for the Saturn and was now championing his own vision for the next machine against a rival team's competing design. He had watched his machines succeed and fail, had felt the elation of the Genesis years and the agony of the Saturn's decline.
 
 Now he stood at the hinge point. Behind him was the wreckage of the thirty-two-bit generation — the financial losses, the strategic errors, the console that was too difficult to program and too expensive to sell. Ahead of him was one more chance: a new machine, a new architecture, built on the hard-won lessons of everything that had gone wrong.
 
@@ -144,7 +132,7 @@ The new direction was already forming in his mind. It had a modem in it.
 
 ---
 
-[^1]: The Saturn used dual Hitachi SH-2 processors at 28.63 MHz each, with VDP1 for sprites/polygons and VDP2 for backgrounds. Sato chose the SH-2 over the Motorola 68020 favored by Sega of America and added the second SH-2 after Sony revealed the PlayStation's polygon capabilities. See Mega Drive Shock, "Hideki Sato Discussing the Sega Saturn," June 2020; Sega Saturn, Wikipedia.
+[^1]: For the Saturn's full architecture — the dual SH-2 CPUs, the Hakone meeting, the reactive 3D pivot, the eight-processor complexity, and the development tool failures — see Chapter 10: The Saturn's Architecture. See also Mega Drive Shock, "Hideki Sato Discussing the Sega Saturn," June 2020; Sega Saturn, Wikipedia.
 
 [^2]: The Saturn sold approximately 9.26 million units worldwide. See Sega Saturn, Wikipedia; VG Sales Wiki, "Sega Saturn."
 
@@ -172,29 +160,21 @@ The new direction was already forming in his mind. It had a modem in it.
 
 [^14]: North American retailers exploited return policies, generating extraordinary losses of $100-200 million on returned stock that wiped out Sega of America's reported profits. See Mega Drive Shock, "Sega's Financial Troubles."
 
-[^15]: At E3 1995, Tom Kalinske revealed the Saturn was available immediately at select retailers at $399, with 30,000 units already shipped. The original launch date had been September 2, 1995. See Fast Company, "How Sega's Surprise Saturn Launch Backfired"; Sega Saturn, Wikipedia.
+[^15]: For a full account of the E3 surprise launch, see Chapter 11: Sega vs. Sega. The Saturn launched at $399 on May 11, 1995, four months ahead of the planned September 2 date, at four select retail chains. See Fast Company, "How Sega's Surprise Saturn Launch Backfired"; Sega Saturn, Wikipedia.
 
-[^16]: KB Toys, excluded from the early Saturn launch, refused to carry the console. Best Buy and Walmart were among the major retailers upset by the surprise. See Sega Saturn, Wikipedia; SegaBits, "Saturn Month: Sega's Big E3 Saturn Surprise Debacle."
+[^16]: KB Toys' permanent boycott, the alienated retailers, and the six-game launch library are detailed in Chapter 11. See Sega Saturn, Wikipedia; SegaBits, "Saturn Month: Sega's Big E3 Saturn Surprise Debacle."
 
-[^17]: The surprise launch yielded only six games, all published by Sega. See Sega Saturn, Wikipedia.
+[^17]: Within two days of its North American launch on September 9, 1995, the PlayStation had sold more units than the Saturn had in its five months since the surprise launch. See Sega Saturn, Wikipedia.
 
-[^18]: Steve Race's "$299" announcement at E3 1995 is widely considered one of the most devastating competitive moments in gaming history. See Sega Saturn, Wikipedia.
+[^20]: For the full technical analysis of the Saturn's dual-CPU contention, eight-processor complexity, and development tool failures, see Chapter 10: The Saturn's Architecture.
 
-[^19]: Within two days of its North American launch on September 9, 1995, the PlayStation had sold more units than the Saturn had in its five months since the surprise launch. See Sega Saturn, Wikipedia.
-
-[^20]: Both SH-2 CPUs shared the same bus and could not access system memory simultaneously, creating a major contention bottleneck. See Sega Saturn, Wikipedia; Copetti, "Sega Saturn Architecture."
-
-[^21]: Sega's Kazuhiro Hamada stated: "I don't think all programmers have the ability to program two CPUs — most can only get about one-and-a-half times the speed you can get from one SH-2. I think that only 1 in 100 programmers are good enough to get this kind of speed out of the Saturn." See Sega Saturn, Wikipedia.
-
-[^22]: Early Saturn development lacked compilers; programming was done exclusively in assembly language. See Mega Drive Shock, "Hideki Sato Discussing the Sega Saturn."
-
-[^23]: Sato acknowledged: "Without development libraries, they couldn't do anything. They'd take a week and barely even be able to get something to display on the screen." See Mega Drive Shock, "Hideki Sato Discussing the Sega Saturn."
-
-[^24]: Sony visited over 100 Japanese studios and partnered with SN Systems to offer ISA-card-based development kits that plugged into standard PCs. See Museum of Play, "How Software Development Helped Make Sony's PlayStation the King of 1990s Consoles."
+[^21]: The financial impact of development difficulty is traced through the feedback loop: complex hardware drove developers to PlayStation, which thinned Saturn's library, which suppressed hardware sales. See Mega Drive Shock, "Hideki Sato Discussing the Sega Saturn"; Museum of Play, "How Software Development Helped Make Sony's PlayStation the King of 1990s Consoles."
 
 [^25]: Sega simultaneously supported the Genesis, Sega CD, 32X, and Saturn, fragmenting its product line and confusing consumers. A marketing executive later admitted the 32X "just made us look greedy and dumb to consumers." See 32X, Wikipedia; Syfy Wire, "Sega's 32X Was One of Video Gaming's Biggest Disasters."
 
-[^26]: Nakayama resigned as president of Sega in January 1998 and became vice-chairman of Sega's arcade division. See "Hayao Nakayama," Wikipedia.
+[^26]: Nakayama was removed as president of Sega in January 1998. He was reassigned to vice-chairman of Sega's arcade division. See "Hayao Nakayama," Wikipedia.
+
+[^26a]: Sato's account of Okawa discovering the financial irregularities: "Okawa discovered massive loans to subsidiaries — 35 billion yen to Sega of America, 20-something billion to Europe. Under standalone accounting, the lending looked like assets and subsidiary purchases looked like revenue. When Okawa figured this out, he was furious. Nakayama was removed as president." See Hitotsubashi University oral history (WP#18-21), as translated in Mega Drive Shock.
 
 [^27]: Shoichiro Irimajiri became chairman and CEO of Sega of America in 1996 and president of Sega in January 1998. He was a former Honda executive. See "Shoichiro Irimajiri," Wikipedia; Reference for Business, "SEGA Corporation."
 
@@ -202,23 +182,21 @@ The new direction was already forming in his mind. It had a modem in it.
 
 [^29]: The Genesis/Mega Drive sold 30.75 million units worldwide. See Sega Genesis, Wikipedia.
 
-[^30]: Ken Kutaragi reportedly told Sato that Sega should abandon hardware and become a third-party developer for Sony. See Mega Drive Shock, "Hideki Sato Discussing the Sega Saturn"; Sega-16, "Sega Stars: Hideki Sato."
+[^30]: For the full account of Kutaragi's dinner entreaties to Sato — "Hideki-chan, please give up!" — and his explanation of Sony's structural manufacturing advantage, see Chapter 12: The PlayStation Shadow. See also Hitotsubashi University oral history (WP#18-21), as translated in Mega Drive Shock, "Hideki Sato Discussing the Sega Saturn."
 
-[^31]: *Virtua Fighter 2* (1995), *Panzer Dragoon Saga* (1998), and *NiGHTS into Dreams* (1996) are widely considered among the Saturn's finest games, demonstrating the hardware's potential when programmed by skilled developers. See Sega Saturn, Wikipedia.
+[^31]: For the Saturn's capabilities in the right hands — *Virtua Fighter 2*, *Panzer Dragoon Saga*, *NiGHTS into Dreams*, and others — see Chapter 10: The Saturn's Architecture and Chapter 12: The PlayStation Shadow.
 
-[^32]: Sato expressed regret about not basing the Saturn on Sega's Model 1 arcade board architecture. See Market Research Telecast, "New Saturn Development Details: 'I Regret Not Basing It on Model 1'"; Mega Drive Shock, "Hideki Sato Discussing the Sega Saturn."
+[^32]: For Sato's Model 1 regret, the SDK failure admission ("What we gave developers as 'libraries' was really just portions of application software"), and the detailed architectural analysis, see Chapter 10: The Saturn's Architecture.
 
-[^33]: Sato was unable to leverage internal polygon expertise because arcade developers using Sega's Model boards were unavailable for the consumer console project. He implemented pseudo-polygons using a sprite architecture with geometry engine support. See Mega Drive Shock, "Hideki Sato Discussing the Sega Saturn."
+[^33]: For the organizational silos, the SOJ-SOA conflict, and the arcade-consumer division separation, see Chapter 11: Sega vs. Sega.
 
-[^34]: Bernie Stolar was recruited as president and COO of Sega of America after Tom Kalinske's departure in 1996. Stolar had previously been instrumental in launching the PlayStation at Sony. See "Bernie Stolar," Wikipedia.
+[^34]: For Stolar's "kill the Saturn" declaration and its impact on the engineering team, see Chapter 11: Sega vs. Sega. See also "Bernie Stolar," Wikipedia.
 
-[^35]: Stolar's declaration upon joining Sega: "We have to kill the Saturn." See "Bernie Stolar," Wikipedia; Never Ending Realm, "Bernie Stolar: The Legend, the 'No RPG Policy,' and His Dreamcast Love."
+[^35]: Saturn sales in Japan reached approximately 5.75 million units, surpassing the Genesis's 3.58 million in the Japanese market. See Sega Saturn, Wikipedia.
 
-[^36]: Stolar limited Saturn software releases in the US and focused on keeping the company afloat while preparing for the Dreamcast. See "Bernie Stolar," Wikipedia.
+[^36]: The Saturn was discontinued in the US and Europe in 1998 and in Japan in 2000. See Sega Saturn, Wikipedia.
 
-[^37]: Saturn sales in Japan reached approximately 5.75 million units, surpassing the Genesis's 3.58 million in the Japanese market. See Sega Saturn, Wikipedia.
-
-[^38]: The Saturn was discontinued in the US and Europe in 1998 and in Japan in 2000. See Sega Saturn, Wikipedia.
+[^36a]: Sato's account of Okawa's discovery: "Okawa discovered massive loans to subsidiaries — 35 billion yen to Sega of America, 20-something billion to Europe. Under standalone accounting, the lending looked like assets and subsidiary purchases looked like revenue. When Okawa figured this out, he was furious." See Hitotsubashi University oral history (WP#18-21), as translated in Mega Drive Shock.
 
 [^39]: Irimajiri laid an ambitious plan using the Dreamcast to restore Sega's lost market share and prestige. See "Shoichiro Irimajiri," Wikipedia; Reference for Business, "SEGA Corporation."
 

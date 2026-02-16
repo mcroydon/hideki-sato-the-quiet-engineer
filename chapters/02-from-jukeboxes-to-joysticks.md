@@ -40,7 +40,11 @@ The name was catchy, even if no one yet imagined it would become one of the most
 
 While Bromley's crew was shipping coin machines around the Pacific, another American was making his own way to Japan — a man whose energy, salesmanship, and instinct for the entertainment business would transform Sega from a distributor of other people's machines into a company that built its own.
 
-David Rosen grew up in Brooklyn, served in the United States Air Force, and was stationed in Japan during the postwar occupation.[^12] Like many Americans who passed through occupied Japan, Rosen saw a country in rubble. Unlike most of them, he also saw opportunity. The Japanese economy was primitive but growing fast. American goods were coveted. And there were gaps in the market that a sharp young man could fill.
+David Rosen grew up in Brooklyn, served in the United States Air Force, and was stationed in Japan during the postwar occupation.[^12] Like many Americans who passed through occupied Japan, Rosen saw a country in rubble. Unlike most of them, he also saw opportunity.
+
+Decades later, Hideki Sato would remember Rosen with a warmth that cut through the usual corporate formality. "The founder was David Rosen — a Jewish American," Sato recalled. "He was very kind to me too."[^12a] It was a small remark, but it revealed something about the culture Rosen had built: a company where the man at the top knew the engineers on the floor, where a kid from Hokkaido who had stumbled into a job at a foreign-owned amusement firm could feel that the founder was personally kind to him. Rosen's Sega was not yet the sprawling multinational it would become. It was still small enough for kindness to be noticed and remembered.
+
+The Japanese economy was primitive but growing fast. American goods were coveted. And there were gaps in the market that a sharp young man could fill.
 
 In 1954, Rosen returned to Japan and started Rosen Enterprises.[^13] His first ventures were eclectic — he sold Japanese art to the American market and ran photography studios that produced the identification photos required by Japan's sprawling postwar bureaucracy. It was not glamorous work, but Rosen was learning how to operate in Japan, how to navigate a business culture profoundly different from anything he had known in Brooklyn, how to build relationships in a society where trust was earned slowly and maintained through meticulous attention to obligation and reciprocity.
 
@@ -175,6 +179,8 @@ From this unlikely origin, Sega would launch itself into a war for the living ro
 [^11]: The brand name "Sega" was derived from the first two letters of "Service" and "Games" — i.e., **SE**rvice **GA**mes Japan. See "David Rosen (businessman)," Wikipedia.
 
 [^12]: David Rosen (died December 25, 2025, at age 95) served in the United States Air Force and was stationed in Japan during the postwar occupation. See "David Rosen (businessman)," Wikipedia; Time Extension, January 2026.
+
+[^12a]: Sato's recollection of David Rosen: "The founder was David Rosen — a Jewish American. He was very kind to me too." Source: Hitotsubashi University IIR Oral History, WP#18-19, Interview 2 Part 2: Competition with Nintendo in Home Consoles.
 
 [^13]: Rosen returned to Japan in 1954 and founded Rosen Enterprises, Inc. His initial businesses included selling Japanese art to American buyers and operating photo studios for identification cards. See "David Rosen (businessman)," Wikipedia.
 

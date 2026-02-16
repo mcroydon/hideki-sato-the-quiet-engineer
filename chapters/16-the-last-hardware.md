@@ -50,7 +50,7 @@ The details of Okawa's motivations remain somewhat opaque — he was not a man g
 
 For Hideki Sato, the announcement of January 31 carried a weight that was both professional and deeply personal.
 
-He had joined Sega in April 1971, a twenty-two-year-old graduate of Tokyo Metropolitan Industrial Junior College entering a company that still made jukeboxes and slot machines.[^21] Over the next three decades, he had been present for — and in many cases, had led — every major hardware project in the company's history. The SG-1000. The Mark III. The Mega Drive, his masterwork, the machine that had taken on Nintendo and won, at least for a while. The Game Gear. The Saturn, with its brilliant ambition and its agonizing complexity. And the Dreamcast, the machine that had dared to imagine a connected future before the world's internet infrastructure was ready to deliver it.[^22]
+He had joined Sega in April 1971, a twenty-year-old graduate of Tokyo Metropolitan College of Industrial Technology entering a company that still made jukeboxes and slot machines.[^21] Over the next three decades, he had been present for — and in many cases, had led — every major hardware project in the company's history. The SG-1000. The Mark III. The Mega Drive, his masterwork, the machine that had taken on Nintendo and won, at least for a while. The Game Gear. The Saturn, with its brilliant ambition and its agonizing complexity. And the Dreamcast, the machine that had dared to imagine a connected future before the world's internet infrastructure was ready to deliver it.[^22]
 
 Each of these consoles bore the imprint of Sato's engineering philosophy — the conviction, born from Sega's arcade heritage, that home hardware should push the boundaries of what was technically possible while remaining grounded in the experience of play. He had negotiated bulk purchases of Motorola 68000 processors at a fraction of their retail price to make the Genesis economically viable.[^23] He had chosen the Hitachi SH-2 for the Saturn over Sega of America's preferred Motorola 68020, a decision that was technically bold even if the resulting dual-processor architecture proved punishingly difficult for developers.[^24] He had championed the Dreamcast's built-in modem against internal resistance, insisting that connectivity was "the new direction we are presenting to players" even when the additional cost per unit drew sharp objections.[^25]
 
@@ -94,7 +94,11 @@ New commercial games continued to trickle out for years after the official disco
 
 The fan community that sustained the Dreamcast was characterized by an intensity of devotion that bordered on the religious. Online forums dedicated to the console remained active for decades. Collectors sought out rare titles and limited editions with the fervor of antiquarians hunting first folios. Modders developed hardware modifications that added HDMI output, replaced the aging GD-ROM drives with solid-state storage, and even retrofitted modern wireless controllers. The Dreamcast, in death, achieved the kind of cult following that it had never quite managed in life.
 
-But the Dreamcast's most consequential afterlife was not in the hands of fans. It was in the DNA of the machine that succeeded it in the market — not a Sega machine, but a Microsoft one.
+The Dreamcast's hardware found unexpected second lives beyond gaming. Sega sold approximately 1.5 million surplus Dreamcast chips to Sammy Corporation, which repurposed them as the processing heart of pachislot machines — most notably for the enormously popular *Fist of the North Star* pachislot, whose glowing screens and fluid animations owed their existence to silicon that Sato's team had designed for *Sonic Adventure* and *Soul Calibur*.[^35a] There was an irony in this that Sato surely appreciated: the chips built to power Sega's last stand in the console wars found their commercial afterlife in the gambling machines that were Sega's oldest business, the descendants of the slot machines that David Rosen had imported to Japan decades before.
+
+The Dreamcast also found its way into a more improbable setting: conveyor-belt sushi restaurants. Kura Sushi, a major chain, adopted Dreamcast hardware for its touch-screen ordering systems — a testament to the console's affordability and reliability as an embedded platform. But the marriage proved unhappy. The vinegar that is fundamental to sushi rice permeated the restaurant air and corroded the GD-ROM drive mechanisms, causing the units to fail.[^35b] It was a small, absurd coda to the Dreamcast's story: a machine designed to connect players across the internet, defeated by condiments.
+
+But the Dreamcast's most consequential afterlife was not in the hands of fans or sushi restaurants. It was in the DNA of the machine that succeeded it in the market — not a Sega machine, but a Microsoft one.
 
 ## The Ghost in the Xbox
 
@@ -120,7 +124,9 @@ Isao Okawa's death on March 16 deepened the pall. The man who had saved the comp
 
 Sato understood this. In March 2001, following Okawa's death, he was named President and Representative Director of Sega — the highest operational role in the company.[^41] The father of Sega hardware had become the steward of Sega software. It was his responsibility to lead the company through its most painful transformation: from a maker of machines to a maker of games that ran on other people's machines.
 
-The transition was wrenching. Sega's first multi-platform releases — including ports of Dreamcast titles to the PlayStation 2 and GameCube — arrived to a market that was curious but skeptical. Could a company that had defined itself against Sony and Nintendo really make great games *for* Sony and Nintendo? The answer, ultimately, was yes, though the path was neither smooth nor complete. Sega's internal studios produced memorable titles across multiple platforms, from the *Yakuza* series to *Total War* to continued installments of *Sonic*. The company survived, adapted, and in some ways thrived.
+The transition was wrenching. Many at Sega had believed that freedom from hardware would be liberating — that on PlayStation and Nintendo, Sega's games would sell like crazy, unshackled from the burden of a shrinking installed base. Sato saw through this illusion with painful clarity. When Sega brought *Virtua Fighter* to market, Tekken was already there. Every genre the company entered was already occupied by incumbents who had spent the previous generation building their franchises on PlayStation. The open waters that had seemed so promising turned out to be someone else's territory.
+
+Sega's first multi-platform releases — including ports of Dreamcast titles to the PlayStation 2 and GameCube — arrived to a market that was curious but skeptical. Could a company that had defined itself against Sony and Nintendo really make great games *for* Sony and Nintendo? The answer, ultimately, was yes, though the path was neither smooth nor complete. Sega's internal studios produced memorable titles across multiple platforms, from the *Yakuza* series to *Total War* to continued installments of *Sonic*. The company survived, adapted, and in some ways thrived.
 
 But something was lost that could not be recovered. The particular alchemy of hardware and software, the feedback loop between the engineers who designed the machines and the programmers who pushed those machines to their limits, the institutional knowledge of how to conceive, design, and manufacture a game console from scratch — all of this dissipated like heat from a cooling engine. Sega could still make games. It could no longer make the thing that had defined it: the platform on which those games were played.
 
@@ -182,7 +188,7 @@ The last hardware had been built. The games would go on.
 
 [^20]: Isao Okawa died of heart failure on March 16, 2001. See "Isao Okawa," Wikipedia.
 
-[^21]: Sato joined Sega Enterprises in April 1971 after graduating from Tokyo Metropolitan Industrial Junior College. See Sega-16, "Sega Stars: Hideki Sato"; Japanese Wikipedia.
+[^21]: Sato joined Sega Enterprises in April 1971 after graduating from Tokyo Metropolitan College of Industrial Technology, a junior college in the Samezu area of Tokyo. See Sega-16, "Sega Stars: Hideki Sato"; Japanese Wikipedia.
 
 [^22]: Sato handled the development of the SG-1000, was involved in the Mark III/Master System, led the Mega Drive project, oversaw the Game Gear, and led Saturn and Dreamcast hardware development. See Sega-16, "Sega Stars: Hideki Sato"; VGC; Kotaku; Shmuplations.
 
@@ -210,6 +216,10 @@ The last hardware had been built. The games would go on.
 [^34]: The Dreamcast used a single Hitachi SH-4 processor — a deliberate simplification after the Saturn's complex dual-SH2 architecture. Developer reception was generally positive. See Copetti, "Dreamcast Architecture"; "Dreamcast," Wikipedia.
 
 [^35]: Japanese developers, particularly in the shooting game genre, continued to release new Dreamcast titles for years after the console's discontinuation. See "Dreamcast," Wikipedia.
+
+[^35a]: Approximately 1.5 million surplus Dreamcast chips were sold to Sammy Corporation for use in pachislot machines, most notably the *Fist of the North Star* pachislot. See Hitotsubashi University IIR Oral History, WP#19-02, Interview 4 Part 2 (Sato, 2018).
+
+[^35b]: Kura Sushi adopted Dreamcast hardware for its ordering systems, but vinegar in the restaurant environment corroded the GD-ROM mechanisms. See Hitotsubashi University IIR Oral History, WP#19-02, Interview 4 Part 2 (Sato, 2018).
 
 [^36]: The Dreamcast offered Windows CE as an optional development environment through the "Dragon SDK," which included DirectX 6 and Visual C++ 6.0, developed in partnership with Microsoft. See "Dreamcast," Wikipedia; Copetti, "Dreamcast Architecture."
 

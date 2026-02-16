@@ -24,21 +24,11 @@ Armed with a blank sheet of paper and the full resources of one of the world's l
 
 The PlayStation, which launched in Japan on December 3, 1994, and in North America on September 9, 1995, was not the most powerful console of its generation.[^11] On paper, the Saturn could match or exceed it in several categories. But power, as Kutaragi understood, was only part of the equation. The other part was *ease*.[^12]
 
-The PlayStation's architecture was a single clean pipeline: one CPU, one GPU, triangle-based rendering aligned with industry standards.[^13] Kutaragi had designed it with developers explicitly in mind. Sony's team had visited over a hundred companies before launch, and their SN Systems partnership produced PC-based dev kits that let studios see results on actual hardware within days.[^14][^15] A PlayStation developer could have 3D models rendering on the box within a week.[^16]
+The PlayStation's architecture was a single clean pipeline: one CPU, one GPU, triangle-based rendering aligned with industry standards.[^13] The contrast with the Saturn's complexity — its dual CPUs, its eight processors, its quadrilateral rendering — could not have been starker. The Saturn's architecture, examined in detail in Chapter 10, was formidable but opaque. The PlayStation was legible.[^14]
 
-The Saturn offered no such welcome. Sato himself had acknowledged the gap: developers could spend a week and barely display anything on screen.[^17] The calculus was brutal. Given equal time and budget, a team could produce a competent, visually impressive 3D game on PlayStation — or spend those same months fighting the Saturn's architecture and still emerge with a product that looked worse.[^18]
+The calculus was brutal. Given equal time and budget, a team could produce a competent, visually impressive 3D game on PlayStation — or spend those same months fighting the Saturn's architecture and still emerge with a product that looked worse.[^15] Developers voted with their feet. The PlayStation would amass a library of 1,284 games. The Saturn received a fraction of that.[^16] Each title that appeared on PlayStation but not on Saturn was a small, quiet confirmation that Sega had lost the war for the people who actually made the games.
 
-Developers voted with their feet. The PlayStation would amass a library of 1,284 games. The Saturn received a fraction of that.[^19] Each title that appeared on PlayStation but not on Saturn was a small, quiet confirmation that Sega had lost the war for the people who actually made the games.
-
-## The Saturn's Impossible Architecture
-
-Hideki Sato had never intended to build a machine this complicated.
-
-The Saturn's architecture — the reactive dual-CPU pivot, the quadrilateral rendering, the eight-processor complexity — has been examined in detail.[^20][^21] What matters in the competitive context is the cumulative effect of these design choices on the platform's viability.
-
-Most developers could extract only about one-and-a-half times the performance of a single SH-2 from the dual-CPU configuration.[^22][^25] Porting games from PlayStation's triangle-based rendering to Saturn's quadrilateral system added months to development schedules and often produced inferior results.[^26][^27] The Saturn's unmatched 2D capabilities — its four-plane VDP2, its RAM expansion cartridge, its ability to produce arcade-perfect fighting game ports that the PlayStation could not replicate — were arguments that mattered to connoisseurs.[^28][^29][^30]
-
-But the mass market wanted 3D. The mass market wanted Tomb Raider and Tekken and Ridge Racer. And on those terms, the Saturn could not compete.
+The Saturn's unmatched 2D capabilities — the strengths detailed in the previous chapters — were arguments that mattered to connoisseurs.[^17] But the mass market wanted 3D. The mass market wanted Tomb Raider and Tekken and Ridge Racer. And on those terms, the Saturn could not compete.
 
 ## Marketing a Feeling
 
@@ -72,11 +62,7 @@ The gap only widened. Final tallies told the story with cold precision:
 
 [^39]
 
-Nine million units. Sega had sold thirty million Genesises. The Saturn, despite representing the most advanced hardware Sato had ever designed, sold less than a third of its predecessor's total. In North America — the market that had delivered Sega's greatest triumph — the Saturn moved just 1.8 million units.[^40] In Europe, where the Genesis had captured 65 percent of the console market, the Saturn managed approximately one million.[^41]
-
-The financial consequences were equally devastating. Each Saturn console sold generated an estimated loss of 10,000 yen — roughly $100 at contemporary exchange rates — because Sato's complex multi-chip architecture was expensive to manufacture.[^42] This was the vicious spiral that hardware companies dread: the console lost money on every sale, which meant that profitability depended on software royalties, which depended on a large installed base, which depended on affordable hardware, which depended on sales volume that the Saturn was not achieving. Sega deliberately constrained production to limit losses, but constraining production meant fewer consoles in stores, which meant fewer reasons for developers to invest in Saturn games, which meant fewer reasons for consumers to buy a Saturn.[^43]
-
-It was a death spiral executed in slow motion, visible to everyone who understood the arithmetic — including the engineer who had designed the hardware at its center.
+Nine million units. Sega had sold thirty million Genesises. The Saturn, despite representing the most advanced hardware Sato had ever designed, sold less than a third of its predecessor's total.[^40] The financial consequences — the per-unit losses, the production constraints, the death spiral of dwindling software support — would be examined in the reckoning to come.[^41] But the competitive picture was already clear: the Saturn had been overwhelmed.
 
 ## What the Saturn Could Do
 
@@ -110,45 +96,31 @@ What did it feel like?
 
 This is the question that corporate histories rarely ask and console retrospectives almost never answer, because the people who can answer it — the engineers who designed the hardware, who drew the circuit schematics and debugged the chip layouts and argued over bus architectures in windowless conference rooms in Haneda — are, by temperament and cultural training, the least likely people in the world to talk about their feelings.
 
-Hideki Sato was a product of postwar Japanese engineering culture. He had joined Sega in April 1971, straight from Tokyo Metropolitan Industrial Junior College, and had spent the next quarter-century building machines.[^54] He was not a showman like Kutaragi, who courted magazine profiles and cultivated a reputation as a rebel. He was not a strategist like Tom Kalinske, who understood marketing the way Sato understood circuitry. He was an engineer — a man who expressed himself through hardware, whose autobiography was written in silicon and solder, whose legacy lived in the chips he had specified and the boards he had laid out.
+Hideki Sato was a product of postwar Japanese engineering culture. He had joined Sega in April 1971, straight from Tokyo Metropolitan College of Industrial Technology, and had spent the next quarter-century building machines.[^54] He was not a showman like Kutaragi, who courted magazine profiles and cultivated a reputation as a rebel. He was not a strategist like Tom Kalinske, who understood marketing the way Sato understood circuitry. He was an engineer — a man who expressed himself through hardware, whose autobiography was written in silicon and solder, whose legacy lived in the chips he had specified and the boards he had laid out.
 
 And he had built a machine that was losing.
 
-The Saturn was not just a commercial product to Sato. It was the culmination of everything he had learned across two decades of console design — from the SG-1000's off-the-shelf pragmatism to the Genesis's arcade-to-home brilliance to the Saturn's ambitious attempt to push the boundaries of what a home console could be. The dual-CPU architecture was not a whim; it was an engineering response to a competitive threat, executed under time pressure, with the tools and relationships available. The choice of the Hitachi SH-2 was not arbitrary; it reflected Sato's conviction that Sega needed to break from the Motorola architecture that had defined the Genesis and embrace the RISC revolution that was reshaping the semiconductor industry.[^55]
+The Saturn was not just a commercial product to Sato. It was the culmination of everything he had learned across two decades of console design. Every architectural choice — the ones examined in detail in Chapter 10, the ones that had made the machine both powerful and punishing — bore his fingerprint.[^55]
 
-He knew the machine was difficult. He said so himself, with the understated candor that was his signature: "The hardware was incredibly difficult to use."[^56] He knew the development tools were inadequate. He knew that third-party developers were struggling. He knew that the PlayStation's architecture was, from a developer's perspective, simply better designed for the kind of games the market was demanding.
+He knew the machine was difficult. He knew the development tools were inadequate. He knew that the PlayStation's architecture was, from a developer's perspective, simply better designed for the kind of games the market was demanding.[^56] But knowing something intellectually and living through its consequences are different experiences. Sato was watching his machine being rejected by the market. Not because it was weak, but because its strength was in the wrong places. Not because it was poorly engineered, but because it was engineered for a world that had changed beneath his feet.
 
-But knowing something intellectually and living through its consequences are different experiences. Sato was watching his machine — the machine he had poured years of his professional life into, the machine that bore his design philosophy in every circuit trace — being rejected by the market. Not because it was weak, but because its strength was in the wrong places. Not because it was poorly engineered, but because it was engineered for a world that had changed beneath his feet.
-
-In later interviews, Sato expressed a specific regret that illuminates the depth of his reflection: he wished he had based the Saturn on Sega's Model 1 arcade board architecture.[^57] The Model 1, designed by Yu Suzuki's AM2 team, was the powerhouse behind Virtua Fighter and Virtua Racing in the arcades — a machine built from the ground up for 3D polygon rendering, with dedicated geometry processors that could have given the Saturn exactly the kind of effortless 3D performance that the PlayStation offered. But Sato had not been able to use it. The Model 1 team was part of Sega's arcade division, and internal politics — the same factional dynamics that plagued the relationship between Sega of Japan and Sega of America — had kept the console and arcade hardware teams at arm's length.[^58]
-
-It was one of the cruelest ironies of Sega's history: the company that prided itself on translating arcade technology into home hardware — the company whose Genesis had been directly adapted from the System 16 arcade board — could not leverage its own best arcade technology for the Saturn, because the organization that built the console and the organization that built the arcades operated in parallel rather than in concert.
+The cruelest irony was one that Sato himself had identified: the company that prided itself on translating arcade technology into home hardware — the company whose Genesis had been directly adapted from the System 16 arcade board — could not leverage its own best 3D arcade technology for the Saturn, because the organizational silos examined in the previous chapter had kept the console and arcade hardware teams at arm's length.[^57]
 
 ## Kutaragi's Taunt
 
-There is a story, referenced in multiple sources but never fully elaborated, that suggests the personal dimension of the Saturn's failure cut even deeper than professional regret.
+The rivalry between the Saturn and the PlayStation had a personal dimension that went deeper than corporate competition. Kutaragi and Sato were the same age — Kutaragi just two or three months older — and they had developed a relationship that was, by Sato's own account, genuinely friendly. They dined together regularly, two or three times a year, two hardware engineers on opposite sides of a war that was consuming both their professional lives.[^59]
 
-Ken Kutaragi, the architect of the PlayStation, reportedly told Sato directly that Sega should abandon hardware manufacturing entirely and become a third-party developer for Sony.[^59]
+It was at these dinners that Kutaragi made his case — not as a corporate rival but as something closer to a concerned elder. "Hideki-chan, please give up!" he would say, using the informal, almost affectionate diminutive.[^59a] "Hideki-chan, your company's hardware business model can't win against us, so why don't you all give up?"
 
-The exact context of this exchange — when it happened, where it happened, whether it was said in person or communicated through intermediaries, whether it was intended as advice or provocation — remains unclear in the available sources. But its emotional content is unmistakable. Here was the man whose machine was destroying the Saturn, telling its creator, face-to-face, that the game was over. That Sega's three decades of hardware engineering had reached their natural end. That the future belonged to Sony, and the sooner Sato accepted this, the better.
+Kutaragi's argument was not about talent. It was about structure. "Sony has annual sales of three trillion yen," he explained. "We make our own CD-ROM drives. We make our own semiconductors. We can make everything ourselves." Sega, by contrast, had to purchase its components from Hitachi and Yamaha and a constellation of suppliers. "Your cost structure is completely different," Kutaragi told him. "The only way to compete is if both companies are on equal footing — and they're not."[^59b]
 
-For a Japanese engineer of Sato's generation — a man raised in the culture of *monozukuri*, the pride of making things, the belief that manufacturing was not merely a business activity but a form of craftsmanship — the suggestion must have landed like a blow. It was not just a commercial judgment. It was a statement about identity. To stop making hardware was to stop being the thing that Sato had been his entire professional life.
+He was right about the math. Sony's vertical integration — the fact that it manufactured its own optical drives, its own custom chips, its own circuit boards — gave it an insurmountable cost advantage. Every component in the Saturn that Sato had to purchase from a supplier, Sony could produce in-house at a fraction of the price. It was the difference between a restaurant that grows its own vegetables and one that buys them at the market.
+
+"Quit the hardware business," Kutaragi urged. "Why not just do software? We'll give you favorable treatment."[^59c]
+
+For a Japanese engineer of Sato's generation — a man raised in the culture of *monozukuri*, the pride of making things, the belief that manufacturing was not merely a business activity but a form of craftsmanship — the suggestion landed like a blow wrapped in warmth. Kutaragi was not being cruel. He was being candid, in the way that only someone who respected you could be. But the candor cut to the bone. To stop making hardware was to stop being the thing that Sato had been his entire professional life.
 
 And yet the numbers said Kutaragi was right.
-
-## The Kill Order
-
-Bernie Stolar's verdict on the Saturn — delivered upon his arrival as Sega of America's president in 1996 — has already been recorded: "We have to kill the Saturn."[^60] The decision was strategically sound: the platform could not generate sufficient software revenue to justify continued investment, and Stolar limited Saturn releases while preparing for the Dreamcast.[^61]
-
-But for the engineers who had designed the machine, the kill order carried a weight that transcended strategy. It was the announcement that their work had been judged and found insufficient — not by critics or competitors, but by their own company.
-
-## The Collapse
-
-The financial consequences of the Saturn era have been traced to their origins — the retail returns that erased 1993's profits, the yen's relentless appreciation, the hardware losses that forced Sega to constrain production of its own console.[^62][^63][^64] But the trajectory only steepened.
-
-In fiscal year ending March 1998, Sega suffered its first consolidated financial loss since going public: 35.6 billion yen.[^65] The following year brought an additional 42.9 billion yen in losses and plans to eliminate a thousand jobs — nearly a quarter of the workforce.[^66]
-
-Hayao Nakayama resigned as president in January 1998.[^67] His departure was not presented as an acknowledgment of failure — Japanese corporate culture rarely permits such directness — but no one mistook it for anything else. The man who had built Sega's console ambitions had been broken by the Saturn's collapse.
 
 ## How the Rules Changed
 
@@ -158,9 +130,7 @@ Before the PlayStation, the console business was fundamentally a hardware engine
 
 Kutaragi changed all of this. The PlayStation succeeded not because it was the most powerful machine — the Saturn could outperform it in specific scenarios — but because it was the most *accessible* machine. Accessible to developers, who could produce games faster and cheaper than on competing platforms. Accessible to consumers, who could buy it for $100 less than the Saturn. Accessible to the cultural mainstream, through marketing that positioned gaming as an adult lifestyle choice rather than a children's hobby.[^68]
 
-Sony visited over a hundred companies to build its third-party relationships before the hardware was even finalized.[^69] It partnered with a British tools company to create a development environment that used standard PCs.[^70] It set royalty rates lower than Nintendo's or Sega's, reducing the financial barrier for smaller publishers.[^71] It signed exclusive deals with key studios, ensuring that the most anticipated games would appear on PlayStation first — or only.
-
-Each of these decisions was individually defensible. Together, they constituted a revolution. Kutaragi had recognized that in the mid-1990s, the console business was no longer primarily about hardware. It was about *ecosystem* — the totality of relationships, tools, business terms, and cultural positioning that determined whether developers, retailers, and consumers would commit to your platform. Hardware was necessary but not sufficient. The box needed to be good enough, not best in class. What mattered was everything around the box.
+Sony's courtship of developers — the studio visits, the SN Systems partnership, the PC-based dev kits — has already been described. But those tactics were symptoms of a deeper insight. Kutaragi had recognized that in the mid-1990s, the console business was no longer primarily about hardware. It was about *ecosystem* — the totality of relationships, tools, business terms, and cultural positioning that determined whether developers, retailers, and consumers would commit to your platform. Sony set royalty rates lower than Nintendo's or Sega's.[^69] It signed exclusive deals with key studios. Hardware was necessary but not sufficient. The box needed to be good enough, not best in class. What mattered was everything around the box.
 
 This was a devastating insight for Sega, because Sega was, at its core, a hardware company. From the SG-1000 through the Genesis to the Saturn, Sato and his team had competed by building technically ambitious machines that pushed the boundaries of what consumer electronics could do. The Genesis had won not just because of Sonic and Tom Kalinske's marketing genius, but because it was a genuinely superior piece of engineering — an arcade board in a living room box, capable of things the NES could not dream of. The Saturn was designed with the same philosophy: build something extraordinary, and the games will come.
 
@@ -170,11 +140,7 @@ Sato was an engineer. He had spent his career optimizing hardware — pushing pr
 
 ## The Fans Who Stayed
 
-There is a quote from Sato — one of his most revealing — that suggests he understood the emotional landscape of Sega's position better than his reserved demeanor might suggest.
-
-"I've been told there are many Sega fans in Japan alone," he said in a 1998 interview. "I sometimes wonder if they aren't just rooting for the underdog."[^72]
-
-The self-awareness in that observation is piercing. Sato knew that Sega's passionate fan base was not simply a reflection of product quality. It was a reflection of something deeper — an emotional identification with a company that kept fighting, kept building, kept trying, even as the market punished it for decisions that were brave but wrong, ambitious but miscalculated. The Sega fan was not cheering for the winner. The Sega fan was cheering for the company that would not give up.
+Sato understood the emotional landscape of Sega's position better than his reserved demeanor might suggest. His wry observation that Sega's fans might simply be "rooting for the underdog" — a remark from a 1998 interview that captured something essential about the company's identity — was not self-pity.[^72] It was self-awareness. Sato knew that Sega's passionate fan base was not simply a reflection of product quality. It was a reflection of something deeper — an emotional identification with a company that kept fighting, kept building, kept trying, even as the market punished it for decisions that were brave but wrong, ambitious but miscalculated. The Sega fan was not cheering for the winner. The Sega fan was cheering for the company that would not give up.
 
 This loyalty was genuine, and it was not unearned. The Saturn, for all its commercial failure, had produced some of the finest games of the generation. Its library, curated by failure — only developers who truly cared about the hardware stuck with it — contained a higher proportion of exceptional titles than any console in Sega's history. The fans who played Panzer Dragoon Saga, who mastered Virtua Fighter 2, who lost themselves in NiGHTS into Dreams, were not deluding themselves about the Saturn's quality. They were experiencing it firsthand, in the most intimate way possible — controller in hand, eyes on the screen, the machine doing exactly what it was built to do.
 
@@ -224,13 +190,13 @@ It was the statement of a man who had learned something about the limits of engi
 
 [^13]: The Saturn's architecture comprised eight microprocessors, including dual Hitachi SH-2 CPUs sharing a bus, with quadrilateral-based rendering. The PlayStation offered a single main CPU and triangle-based 3D rendering. See Copetti, "Sega Saturn Architecture"; "Sega Saturn," Wikipedia.
 
-[^14]: A team from Sony visited more than 100 companies throughout Japan in May 1993 to attract developers, eventually securing initial support from Namco, Konami, Williams Entertainment, and 250 other development teams in Japan alone. See Museum of Play, "How Software Development Helped Make Sony's PlayStation the King of 1990s Consoles."
+[^14]: For a detailed examination of the Saturn's dual-CPU architecture, eight-processor design, and quadrilateral rendering, see Chapter 10: The Saturn's Architecture.
 
-[^15]: Sony partnered with SN Systems in 1993 to offer developer systems. Licensees received ISA cards containing the entire PlayStation chipset that plugged into a standard PC. See Museum of Play, "How Software Development Helped Make Sony's PlayStation the King of 1990s Consoles."
+[^15]: Both SH-2 processors shared the same bus and had problems accessing main system RAM simultaneously. Most developers couldn't effectively use both CPUs. See NeoGAF, "Saturn's Processor"; SegaXtreme, "About Saturn Dual CPUs."
 
-[^16]: Quote from a PlayStation developer on the development environment. See Museum of Play, "How Software Development Helped Make Sony's PlayStation the King of 1990s Consoles."
+[^16]: The PlayStation accumulated a library of 1,284 released games. See "Nintendo 64," Wikipedia (comparative figures).
 
-[^17]: Sato quote on Saturn development tools. See Mega Drive Shock, "Hideki Sato Discussing the Sega Saturn" (translated from Hitotsubashi University oral history, February 2018).
+[^17]: For the Saturn's 2D capabilities, VDP2 background planes, and RAM expansion cartridge, see Chapter 10: The Saturn's Architecture.
 
 [^18]: Both SH-2 processors shared the same bus and had problems accessing main system RAM simultaneously. Most developers couldn't effectively use both CPUs. See NeoGAF, "Saturn's Processor"; SegaXtreme, "About Saturn Dual CPUs."
 
@@ -304,17 +270,21 @@ It was the statement of a man who had learned something about the limits of engi
 
 [^53]: The Nintendo 64 sold approximately 33 million units worldwide. See "Nintendo 64," Wikipedia.
 
-[^54]: Sato joined Sega Enterprises in April 1971, entering the company's research and development division. He graduated from Tokyo Metropolitan Industrial Junior College. See Sega-16, "Sega Stars: Hideki Sato"; VGC obituary.
+[^54]: Sato joined Sega Enterprises in April 1971, entering the company's research and development division. He graduated from Tokyo Metropolitan College of Industrial Technology, a junior college in the Samezu area of Tokyo. See Sega-16, "Sega Stars: Hideki Sato"; VGC obituary.
 
 [^55]: Sato chose the Hitachi SH-2 RISC processor over Sega of America's preferred Motorola 68020. See Mega Drive Shock, "Hideki Sato Discussing the Sega Saturn."
 
 [^56]: Sato quote: "The hardware was incredibly difficult to use." See Mega Drive Shock, "Hideki Sato Discussing the Sega Saturn" (translated from Hitotsubashi University oral history).
 
-[^57]: In later interviews, Sato expressed regret about not basing the Saturn on Sega's Model 1 arcade board architecture. See Market Research Telecast; Beep21/SegaXtreme.
+[^57]: For Sato's Model 1 regret and the organizational silos that prevented him from leveraging Sega's best 3D arcade technology, see Chapter 10: The Saturn's Architecture and Chapter 11: Sega vs. Sega. The quote about "internal division conflicts that lacked synergy" is from the Hitotsubashi University oral history (WP#18-21).
 
-[^58]: Sato noted that arcade developers using Sega's Model boards were unavailable for Saturn development. The Saturn was initially designed around sprite-based graphics; the 3D pivot was reactive. See Mega Drive Shock, "Hideki Sato Discussing the Sega Saturn."
+[^59]: Kutaragi and Sato were the same age (both born 1950), with Kutaragi two to three months older. They dined together regularly — "two or three times a year" — throughout the Saturn and Dreamcast eras. Kutaragi urged Sato to abandon hardware: "Quit the hardware business. Why not just do software? We'll give you favorable treatment." See Hitotsubashi University oral history (WP#18-21), as translated in Mega Drive Shock, "Hideki Sato Discussing the Sega Saturn."
 
-[^59]: Ken Kutaragi reportedly told Sato directly that Sega should abandon hardware and become a third-party developer for Sony. See Mega Drive Shock, "Hideki Sato Discussing the Sega Saturn"; Sega-16, "Sega Stars: Hideki Sato."
+[^59a]: "Hideki-chan, please give up!" and "Hideki-chan, your company's hardware business model can't win against us, so why don't you all give up?" — Kutaragi's dinner entreaties to Sato, using the informal diminutive "-chan." See Hitotsubashi University oral history (WP#18-21), as translated in Mega Drive Shock.
+
+[^59b]: "Sony had annual sales of 3 trillion yen... They made their own CD-ROM drives... We can make everything ourselves" — Kutaragi's explanation of Sony's vertical integration advantage. See Hitotsubashi University oral history (WP#18-21), as translated in Mega Drive Shock, "Hideki Sato Discussing the Sega Saturn."
+
+[^59c]: Kutaragi's offer of "favorable treatment" for Sega as a third-party developer on PlayStation. See Hitotsubashi University oral history (WP#18-21), as translated in Mega Drive Shock.
 
 [^60]: Bernie Stolar's statement upon joining Sega as president and COO of Sega of America in 1996: "We have to kill the Saturn." See "Bernie Stolar," Wikipedia; Never Ending Realm.
 
@@ -334,11 +304,7 @@ It was the statement of a man who had learned something about the limits of engi
 
 [^68]: Sony's marketing strategy positioned gaming as an adult lifestyle choice, targeting young adults through club culture, fashion-forward advertising, and countercultural positioning. See Games Hub; FORM.
 
-[^69]: Sony visited more than 100 companies in Japan in May 1993 to solicit developer support. See Museum of Play.
-
-[^70]: Sony partnered with SN Systems in 1993 to create PC-based development tools. See Museum of Play.
-
-[^71]: Sony offered a lower royalty rate per game than Nintendo's licensing system. The PlayStation's open approach attracted 250+ development teams in Japan alone. See Museum of Play; Game Informer, "The Saturn Spiral."
+[^69]: Sony offered a lower royalty rate per game than Nintendo's licensing system. The PlayStation's open approach attracted 250+ development teams in Japan alone. See Museum of Play, "How Software Development Helped Make Sony's PlayStation the King of 1990s Consoles"; Game Informer, "The Saturn Spiral."
 
 [^72]: Sato quote: "I've been told there are many Sega fans in Japan alone... I sometimes wonder if they aren't just rooting for the underdog." See Shmuplations, "The History of Sega Console Hardware" (Famitsu DC, November 1998).
 

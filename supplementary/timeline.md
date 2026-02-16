@@ -8,19 +8,22 @@
 |------|-------------|------------------|
 | **1940** | Standard Games founded in Honolulu by American businessmen, providing coin-operated amusement machines to military bases | — |
 | **1945** | — | World War II ends; Japan begins postwar reconstruction |
-| **1948** | Hideki Sato born November 5 in Hokkaido, Japan | — |
+| **1950** | Hideki Sato born November 5 in Ashibetsu (芦別), a coal mining town in the Sorachi District of Hokkaido, Japan; eldest of three children | — |
 | **1951** | Standard Games relocates to Tokyo, renamed Service Games | — |
 | **1952** | Service Games of Japan opens Tokyo distribution office (February 15) | — |
 | **1954** | — | Texas Instruments begins commercial production of silicon transistors |
 | **1956** | Service Games shortens its name to Sega (from **Se**rvice **Ga**mes) | — |
 | **1960** | David Rosen founds Rosen Enterprises in Tokyo, importing coin-operated machines | — |
+| **~1963** | Sato's family moves from Hokkaido to Hachioji, Tokyo; his father takes permanent work at Prince Motors (later absorbed by Nissan) after the decline of Hokkaido's local timber industry | — |
 | **1965** | Sega and Rosen Enterprises merge to form Sega Enterprises, Ltd., with Rosen as CEO | — |
 | **1966** | Sega releases *Periscope*, a major international arcade hit | — |
+| **~1969** | Sato enrolls at Tokyo Metropolitan College of Industrial Technology (東京都立工業短期大学) in Samezu, studying electrical engineering on scholarship | — |
 | **1969** | Gulf and Western Industries acquires Sega | — |
-| **1971** | Sato joins Sega Enterprises in April, entering the R&D division, after graduating from Tokyo Metropolitan Industrial Junior College | Intel releases the 4004, the first commercial microprocessor |
+| **1971** | Sato joins Sega Enterprises in April, entering the R&D division, after graduating from Tokyo Metropolitan College of Industrial Technology; hired on the spot after walking into Sega's office near Otorii station with no appointment | Intel releases the 4004, the first commercial microprocessor |
 | **1972** | — | Atari founded; *Pong* released |
 | **1973** | Sega introduces commercial video games in Japan | — |
 | **1975** | Sato helps develop *Rodeo*, one of Sega's first microprocessor-based arcade games | Microsoft founded |
+| **~1978** | Sato is among seven Sega employees sent to Gremlin Industries in Los Angeles for two months to learn software development; inherits the system board philosophy (one board, swap software) that will define Sega's arcade architecture strategy | — |
 | **1978** | — | Taito's *Space Invaders* ignites the golden age of arcade games in Japan |
 | **1979** | — | Atari 2600 reaches mass-market penetration in the US |
 | **1980** | — | Namco releases *Pac-Man*; Nintendo releases *Game & Watch* |
@@ -54,4 +57,4 @@
 | **2018** | Sato records extensive oral history at Hitotsubashi University Innovation Research Center (February 1) | — |
 | **2019** | Sato publishes memoir: *The Former President Tells All! The Secret History of Sega Home Console Development* (Tokuma Shoten, September 20) | — |
 | **2025** | — | David Rosen, Sega co-founder, dies December 25 at age 95 |
-| **2026** | Hideki Sato dies February 13 at age 77; *Beep21* magazine publishes memorial, describing him as someone who "brought excitement and pioneering spirit to gaming history" | — |
+| **2026** | Hideki Sato dies February 13 at age 75; *Beep21* magazine publishes memorial, describing him as someone who "brought excitement and pioneering spirit to gaming history" | — |

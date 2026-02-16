@@ -26,7 +26,7 @@ Hideki Sato chose to power the Saturn with not one but two Hitachi SH-2 processo
 
 This requires some explanation for anyone who has not spent time thinking about how computers work. A processor — a CPU — is the brain of a computing device. It reads instructions, one after another, and executes them. Every image you see on a screen, every sound you hear from a speaker, every button press that registers as an action in a game — all of it flows through the processor. In the early 1990s, every home console that existed had exactly one CPU, just as every human has one brain. The processor was the singular, sovereign authority that told every other chip in the system what to do.
 
-Sato's decision to use two was, at the time, unprecedented in consumer hardware.[^2] The idea had a certain elegant logic: if one processor could perform thirty-seven million instructions per second, two processors working together could perform seventy-four million — theoretically doubling the machine's power.[^3] In an industry where console generations were defined by leaps in capability, doubling the brainpower sounded like an insurmountable advantage.
+Sato's decision to use two was, at the time, unprecedented in consumer hardware.[^2] The idea had a certain elegant logic: if one processor could perform thirty-seven million instructions per second, two processors working together could perform seventy-four million — theoretically doubling the machine's power.[^3] In an industry where console generations were defined by leaps in capability, doubling the brainpower sounded like an insurmountable advantage. It also gave Sega's marketing department a number to put on the box: two thirty-two-bit processors could, with some creative arithmetic, be called a sixty-four-bit system. Sato was characteristically dry about this: "It's a dirty way of getting to 64-bits," he admitted.[^3a]
 
 But the comparison to a brain is misleading. A better analogy is a kitchen.
 
@@ -38,11 +38,15 @@ This is the fundamental challenge of parallel processing, and it is the challeng
 
 The two SH-2 processors in the Saturn were configured in what engineers call a master-slave arrangement — one was the primary, the other the secondary.[^4] They shared the same system bus, the electronic highway over which data travels between components. And here was the problem that no amount of engineering ambition could wish away: both processors needed to access the system's memory, and they could not do so at the same time.[^5] When the master CPU was reading data from memory, the slave had to wait. When the slave was writing data, the master was blocked. The bus — the highway — had only one lane, and two vehicles were trying to use it simultaneously.
 
-The result was that most developers could never extract anything close to the theoretical performance. As Sega's own engineer Kazuhiro Hamada would later admit with devastating candor: "I don't think all programmers have the ability to program two CPUs — most can only get about one-and-a-half times the speed you can get from one SH-2. I think that only 1 in 100 programmers are good enough to get this kind of speed out of the Saturn."[^6]
+The result was that most developers could never extract anything close to the theoretical performance. Yu Suzuki — the legendary arcade game designer behind *Virtua Fighter*, and one of the few programmers who could genuinely harness the Saturn's dual CPUs — offered a devastating assessment: "I think that only 1 in 100 programmers are good enough to get this kind of speed out of the Saturn." Most, he observed, could manage "about one-and-a-half times the speed you can get from one SH-2."[^6]
 
 One and a half times the performance from double the hardware. It was as if you had hired that second chef and discovered she could only work while the first one sat down. The overhead of coordination consumed a huge fraction of the added capability.
 
-Sato himself had not originally planned it this way. The Saturn's design began life with a single SH-2.[^7] The decision to double it was reactive, born of fear — and it is worth understanding what provoked it.
+Sato himself had not originally planned it this way. The Saturn's design began life with a single SH-2.[^7] The decision to double it was reactive, born of fear and forged in a conference room at a hot-spring resort — and it is worth understanding both what provoked it and how it came to be.
+
+By the summer of 1993, Sato's team had determined that the single SH-2, delivering twenty-five million instructions per second, was not fast enough for a next-generation console. Raising the clock frequency would require Hitachi to redesign the chip, and Hitachi's SH development group did not have the time. The impasse was escalated to a top-level meeting between Hitachi and Sega executives at Hakone, the resort town in the mountains southwest of Tokyo, in September 1993.[^7a]
+
+It was there that Hitachi's engineers presented an unexpected solution. The SH-2 had a multiprocessor function built into its design — a feature that allowed two chips to be linked together in cascade, sharing data through a two-way transfer protocol. The feature had been included almost as an afterthought, part of an internal research project. Hitachi's own engineer Shunpei Kawasaki later confessed: "In my mind, I thought that certainly nobody would ever use that function."[^7b] An accidental capability, designed for a purpose no one had anticipated, became the critical innovation that defined the Saturn's architecture.
 
 ## The Polygon Shock
 
@@ -100,7 +104,9 @@ In 1995, the typical game development team consisted of a handful of programmers
 
 The Saturn asked these developers to become something else: systems engineers capable of coordinating eight processors simultaneously while working in a programming language — assembly — that most of them had never needed to use at this level of complexity.[^25]
 
-Sato himself was painfully aware of the gap. "Without development libraries, they couldn't do anything," he admitted later. "They'd take a week and barely even be able to get something to display on the screen."[^26]
+Sato himself was painfully aware of the gap. "Without development libraries, they couldn't do anything," he admitted later. "They'd take a week and barely even be able to get something to display on the screen."[^26] Years later, in his oral history at Hitotsubashi University, he was even more blunt about the failure: "What we gave developers as 'libraries' was really just portions of application software." It was not a proper development kit. "We got absolutely hammered by third-party developers."[^26a]
+
+The root cause, as Sato diagnosed it, was cultural. "There was no mindset for it," he explained. Sega's internal software teams were accustomed to figuring things out on their own — they were arcade programmers, craftsmen who could work directly with hardware. But for home consoles, "the most important thing is third parties," and Sega had never built the infrastructure to support them.[^26b]
 
 Development libraries — pre-written code that handles common tasks like drawing a polygon or playing a sound — are the bridges between raw hardware and working software. They are the recipes that let a cook use an unfamiliar kitchen without having to understand the plumbing. Sony understood this instinctively. The PlayStation shipped with robust, well-documented libraries and development tools that made getting a game up and running a matter of days, not weeks.[^27] Sony's dev kits were built around standard PCs, using familiar tools, and its developer relations team visited over 250 companies to offer support.[^28] A developer who received a PlayStation dev kit could, within a week, see their 3D models rendered on screen.
 
@@ -216,13 +222,19 @@ It was. And that difficulty, more than any marketing failure or surprise launch 
 
 [^3]: Each SH-2 processor delivered approximately 37.2 MIPS (million instructions per second), for a theoretical combined output of approximately 74.5 MIPS. See "Sega Saturn," Wikipedia; Treasure Wiki, "Sega Saturn Technical Specifications."
 
+[^3a]: "It's a dirty way of getting to 64-bits" — Sato's own characterization of the dual-CPU marketing claim. See Mega Drive Shock, "Hideki Sato Discussing the Sega Saturn," translated from Hitotsubashi University oral history (2018).
+
 [^4]: The dual SH-2 CPUs were configured in a master-slave arrangement, with one designated as the primary processor and the other as secondary. See Copetti, "Sega Saturn Architecture."
 
 [^5]: Both SH-2 processors shared the same system bus and could not access system memory simultaneously, creating a major bottleneck. See "Sega Saturn," Wikipedia; SegaXtreme forum discussions on Saturn dual CPUs.
 
-[^6]: Quote from Sega engineer Kazuhiro Hamada on the difficulty of programming the Saturn's dual CPUs. See "Sega Saturn," Wikipedia; NeoGAF forum, "Saturn's Processor 2 Generations 2 Early."
+[^6]: Quote from Yu Suzuki (AM2) on the difficulty of programming the Saturn's dual CPUs. Though frequently misattributed to Sega engineer Kazuhiro Hamada, the "1 in 100" observation originates from Suzuki, who was one of the few programmers capable of fully exploiting the dual-CPU architecture. See Mega Drive Shock, "Hideki Sato Discussing the Sega Saturn"; "Sega Saturn," Wikipedia.
 
 [^7]: Sato originally designed the Saturn around a single SH-2 processor focused on sprite-based 2D graphics. The second SH-2 was added after Sony revealed the PlayStation's 3D capabilities. See Mega Drive Shock, "Hideki Sato Discussing the Sega Saturn."
+
+[^7a]: The Hakone meeting between Hitachi and Sega executives in September 1993 was the pivotal moment when the dual-CPU architecture was proposed. By summer 1993, Sega had determined the single SH-2's performance at 25 MIPS was insufficient. See Mega Drive Shock, "Hideki Sato Discussing the Sega Saturn," translated from Hitotsubashi University oral history (2018).
+
+[^7b]: Hitachi engineer Shunpei Kawasaki on the SH-2's multiprocessor function: "In my mind, I thought that certainly nobody would ever use that function." The feature had been included for an internal research project and was almost omitted from the final chip design. See Mega Drive Shock, "Hideki Sato Discussing the Sega Saturn."
 
 [^8]: Sony's PlayStation specifications claimed the ability to render 300,000+ polygons per second, a number that alarmed Sega's hardware team. See Mega Drive Shock, "Hideki Sato Discussing the Sega Saturn."
 
@@ -261,6 +273,10 @@ It was. And that difficulty, more than any marketing failure or surprise launch 
 [^25]: During early Saturn development, programming in assembly language offered 2x-5x speed improvements over C, but most developers were accustomed to higher-level languages. See Mega Drive Shock, "Hideki Sato Discussing the Sega Saturn."
 
 [^26]: Sato's acknowledgment of the Saturn's development difficulties: "Without development libraries, they couldn't do anything. They'd take a week and barely even be able to get something to display on the screen." See Mega Drive Shock, "Hideki Sato Discussing the Sega Saturn."
+
+[^26a]: "What we gave developers as 'libraries' was really just portions of application software" and "We got absolutely hammered by third-party developers" — Sato's more detailed account of the SDK failure, from the Hitotsubashi University oral history (2018). See Mega Drive Shock, "Hideki Sato Discussing the Sega Saturn."
+
+[^26b]: "There was no mindset for it" and "the most important thing is third parties" — Sato's diagnosis of the cultural root of Sega's development tools failure. See Hitotsubashi University oral history (WP#18-21), as translated in Mega Drive Shock, "Hideki Sato Discussing the Sega Saturn."
 
 [^27]: Sony partnered with SN Systems in 1993 to create developer tools and offered dev kits built around standard PCs, significantly lowering the barrier to PlayStation development. See Museum of Play, "How Software Development Helped Make Sony's PlayStation the King of 1990s Consoles."
 

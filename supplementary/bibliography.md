@@ -6,11 +6,24 @@
 
 ## Primary Sources: Hideki Sato Interviews and Publications
 
-Sato, Hideki. Oral history interview. Hitotsubashi University Innovation Research Center, February 1, 2018. Published as working papers by the Hitotsubashi University Institute of Innovation Research. Portions translated into English by Mega Drive Shock and Sega Saturn Shiro.
+Sato, Hideki. Oral history interviews. Hitotsubashi University Institute of Innovation Research (一橋大学イノベーション研究センター), Game Industry Oral History Research Project, conducted February 1, 2018 and January 30, 2019. Interviewers: Shimizu Hiroshi, Kim Donghoon, Shigihara Morihiro, Yamaguchi Shotaro. Published as eight working papers:
+
+- WP#18-16: "Interview 1 Part 1: Childhood Life" (幼少期の暮らし). 22 pages.
+- WP#18-17: "Interview 1 Part 2: From Middle School to Joining Sega" (中学時代からセガ入社まで). 28 pages.
+- WP#18-18: "Interview 2 Part 1: Beginning TV Game Development" (テレビゲームの開発に着手). 34 pages.
+- WP#18-19: "Interview 2 Part 2: Competition with Nintendo in Home Consoles" (家庭用ゲーム機における任天堂との競争). 26 pages.
+- WP#18-20: "Interview 3 Part 1: Hardware and Software in Games" (ゲームにおけるハードとソフト). 30 pages.
+- WP#18-21: "Interview 3 Part 2: Sega Saturn, Dreamcast, Transition to Software" (セガサターン、ドリームキャスト、ソフトウェアメーカーへの転身). 38 pages.
+- WP#19-01: "Interview 4 Part 1: Sega Game Development History and Corporate Culture" (セガのゲーム開発の歴史と社風). 24 pages.
+- WP#19-02: "Interview 4 Part 2: Sega Game Development History and Corporate Culture" (セガのゲーム開発の歴史と社風). 23 pages.
+
+PDFs available at https://pubs.iir.hit-u.ac.jp/ja/pdfs/file/2151 through /2156, /2232, /2234. Portions translated into English by Mega Drive Shock and Sega Saturn Shiro.
 
 Sato, Hideki. *元社長が語る! セガ家庭用ゲーム機 開発秘史 ―SG-1000、メガドライブ、サターンからドリームキャストまで―* [The Former President Tells All! The Secret History of Sega Home Console Development — From SG-1000, Mega Drive, Saturn to Dreamcast]. Tokyo: Tokuma Shoten, September 20, 2019. 176 pages. ISBN 9784198649845.
 
-Sato, Hideki. Interview with *Famitsu DC*, November 1998. Translated by Shmuplations as "The History of Sega Console Hardware (Hideki Sato, 1998)."
+Sato, Hideki. Interview with *Famitsu DC*, November 1998. Translated by Shmuplations as "The History of Sega Console Hardware (Hideki Sato, 1998)." https://shmuplations.com/segahistory/. Covers the full arc of Sega's hardware from SG-1000 through Dreamcast, including Sato's account of processor negotiations, the Genesis design philosophy, and the Dreamcast's connectivity vision.
+
+Sato, Hideki. Saturn-era interview. Translated by Mega Drive Shock as "Hideki Sato Discussing the Sega Saturn," June 2020. https://mdshock.com/2020/06/16/hideki-sato-discussing-the-sega-saturn/. Also translated in part by SEGAbits as "Sega's Hideki Sato Talks About Creating the Mega Drive." Covers SH-2 processor selection, the decision to add a second CPU, Saturn SDK failures, and Sato's assessment of the PlayStation rivalry.
 
 Sato, Hideki. Interview with *Beep21* magazine, ongoing series "Sega Hard Historia," 2020s.
 

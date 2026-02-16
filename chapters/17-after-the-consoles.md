@@ -4,7 +4,7 @@
 
 ---
 
-The press conference was held at the Tokyo Stock Exchange, and the handshake was photographed for the wires. It was February 2003, and Hideki Sato — president of Sega Corporation, the man who had designed every console the company had ever built — stood beside Hajime Satomi, the president of Sammy Corporation, a company whose primary business was manufacturing pachinko and pachislot machines.[^1] The two men smiled for the cameras. Behind them, the logos of their respective companies flanked a banner announcing the merger that would reshape both organizations. Sato, fifty-four years old, his hair graying, his posture erect in the manner of a man who had spent decades in the formal corridors of Japanese corporate life, had spent the previous two years dismantling the hardware empire he had built. Now he was handing what remained to a company that made gambling machines.
+The press conference was held at the Tokyo Stock Exchange, and the handshake was photographed for the wires. It was February 2003, and Hideki Sato — president of Sega Corporation, the man who had designed every console the company had ever built — stood beside Hajime Satomi, the president of Sammy Corporation, a company whose primary business was manufacturing pachinko and pachislot machines.[^1] The two men smiled for the cameras. Behind them, the logos of their respective companies flanked a banner announcing the merger that would reshape both organizations. Sato, fifty-two years old, his hair graying, his posture erect in the manner of a man who had spent decades in the formal corridors of Japanese corporate life, had spent the previous two years dismantling the hardware empire he had built. Now he was handing what remained to a company that made gambling machines.
 
 There is a particular kind of irony in this. Sega had begun its life as a slot machine company — American hustlers shipping coin-operated amusement devices to military bases across the Pacific. Now, more than half a century later, it was merging with a Japanese pachinko manufacturer. The wheel had come full circle, though no one on that stage in February 2003 seemed inclined to note the symmetry. What they discussed instead was strategy, synergy, and survival. What they did not discuss — what no press conference could adequately capture — was what it felt like for the man who had designed the Genesis, the Saturn, and the Dreamcast to preside over the end of the era those machines represented.
 
@@ -102,7 +102,19 @@ Hideki Sato spent the final years of his life in relative privacy, far from the 
 
 At some point in the 2020s, *Beep21* — a Japanese gaming magazine with deep roots in Sega's history — began working with Sato on an extensive interview series called "Sega Hard Historia," a complete accounting of Sega's hardware legacy told through the recollections of the man who had designed it.[^50] The magazine was also compiling a new book about Sato and his work, an effort to preserve and amplify the record he had spent his later years constructing.
 
-On February 13, 2026, Hideki Sato died. He was seventy-seven years old.[^51]
+In the Hitotsubashi oral history, conducted years earlier but published with the unhurried patience of academic research, Sato had spoken about the end of Sega's hardware era with a candor that press conferences had never permitted. "Since 1983, I'd been doing consumer hardware," he told the interviewers. "To have given birth to and raised these products, only to be the one to bury them... That was the end."[^50a] He returned to the image more than once, as though the metaphor had lodged itself somewhere permanent. "It felt like burying my own child."[^50b]
+
+He spoke, too, about what had come after — the dream that going multiplatform would liberate Sega's game designers, that the open waters of the PlayStation and Nintendo ecosystems would be fertile rather than hostile. "Many at Sega believed that on PlayStation and Nintendo, our games would sell like crazy," he said. "What actually happened: we brought Virtua Fighter to market and Tekken was already there. Going into the open ocean, we discovered it was full of sharks."[^50c]
+
+And he spoke about what Sega had become — or, more precisely, what it had lost in becoming it. "What the game industry needs is people who can make gut decisions and accept failure," he said. "In the old days, every game company had a strong-willed, autocratic leader. They'd say 'Do this!' Out of ten bets, seven would fail and two or three would hit. But decisions were made in a day." He paused. "Today's Sega is all meetings. 'Is this profitable? Show me the competitor analysis.' By the time they're done, a year has passed. People are making PowerPoints instead of making games."[^50d]
+
+It was the voice of a man who had lived through the era of instinct and improvisation — the era when a junior college graduate could walk into a company that made jukeboxes and, through talent and tenacity and the particular alchemy of being in the right place when an industry was being born, could rise to design every piece of hardware that company would ever build. That era was gone. Sato knew it. The knowing did not make him bitter; it made him precise. He documented what had been so that those who came after might understand what had been lost along with what had been gained.
+
+---
+
+On February 13, 2026, Hideki Sato died. He was seventy-five years old.[^51]
+
+The man who had walked into Sega's offices on a whim in March 1971, who had bluffed his way through a fifteen-minute interview and been hired on the spot, who had taught himself relay logic and TTL chips and microprocessors and semiconductor negotiation, who had designed the SG-1000 and the Master System and the Genesis and the Saturn and the Dreamcast, who had presided over the company during the most painful chapter of its existence and then stepped quietly away — that man was gone.
 
 The news was first reported by *Beep21*, which published a memorial notice describing Sato as "a truly great person" who "brought excitement and pioneering spirit to gaming history."[^52] The announcement spread quickly through international gaming media — Kotaku, VGC, PC Gamer, Time Extension, The Gamer, and dozens of other outlets carried the story within hours. All of them used the same phrase: the Father of Sega Hardware.
 
@@ -215,7 +227,15 @@ He was the father of the hardware. And in the end, the hardware had set the soft
 
 [^50]: *Beep21* conducted extensive interviews with Sato as part of their "Sega Hard Historia" series and was compiling a new book about Sato and Sega's hardware legacy at the time of his death. See Beep21/note.com; Kotaku; The Gamer.
 
-[^51]: Hideki Sato died on February 13, 2026. Multiple obituaries report his age at death as 77, consistent with a birth year of 1948. See Kotaku; Beep21 original report.
+[^50a]: "Since 1983, I'd been doing consumer hardware. To have given birth to and raised these products, only to be the one to bury them... That was the end." Sato, Hitotsubashi University IIR Oral History, Interview 3 Part 2 (WP#18-21): "Saturn, Dreamcast, and Transition to Software."
+
+[^50b]: "It felt like burying my own child." Sato, Hitotsubashi University IIR Oral History, Interview 3 Part 2 (WP#18-21). The metaphor of parenthood recurred throughout Sato's reflections on the hardware he designed, consistent with his use of "gave birth to and raised" in the preceding quote.
+
+[^50c]: "Many at Sega believed that on PlayStation and Nintendo, our games would sell like crazy. What actually happened: we brought Virtua Fighter to market and Tekken was already there. Going into the open ocean, we discovered it was full of sharks." Sato, Hitotsubashi University IIR Oral History, Interview 3 Part 2 (WP#18-21).
+
+[^50d]: "What the game industry needs is people who can make gut decisions and accept failure... Today's Sega is all meetings. 'Is this profitable? Show me the competitor analysis.' By the time they're done, a year has passed. People are making PowerPoints instead of making games." Sato, Hitotsubashi University IIR Oral History, Interview 4 Part 2 (WP#19-02): "Sega Game Development History and Corporate Culture."
+
+[^51]: Hideki Sato died on February 13, 2026. Japanese obituaries reported his age as seventy-seven, consistent with *kazoedoshi* (数え年), the traditional East Asian age-counting system. Under Western age reckoning, Sato was seventy-five, born November 5, 1950. See Kotaku; Beep21 original report.
 
 [^52]: *Beep21* described Sato as "a truly great person" who "brought excitement and pioneering spirit to gaming history." See Beep21/note.com.
 

@@ -46,6 +46,8 @@ He convinced CEO Ohga. Sony cut all ties to Nintendo in May 1992 and began devel
 
 The PlayStation was coming. And its architect had a chip on his shoulder the size of Kyoto.
 
+There was, however, a road not taken — one that would have made the entire console war moot. Before the PlayStation was conceived as a competitor to Sega's machines, there had been a moment when Sony might have simply *bought* Sega outright. Paramount, which then owned Sega, had explored selling the company to Sony. Norio Ohga himself came to negotiate. But the executive handling the deal on Paramount's side died in a plane crash, and the negotiations collapsed. CSK's Isao Okawa ultimately purchased Sega instead, for approximately 8 billion yen.[^12a] It is one of the great counterfactuals of the gaming industry: had that plane landed safely, had the deal gone through, Kutaragi might have built the PlayStation's successor using Sega's arcade technology, and the console war of the 1990s would never have happened. Instead, two companies that might have been one became the bitterest of rivals.
+
 ## The Man from Sega Watches
 
 At Sega's hardware development offices in Haneda, Tokyo, Hideki Sato was watching all of this unfold with the wariness of a general studying an approaching army.
@@ -117,6 +119,8 @@ Sony was a consumer electronics colossus — a company with $40 billion in annua
 When Sony entered the console market, it was not a peer competitor making a lateral move. It was a giant descending from the mountains. The resources Sony could bring to bear — in hardware engineering, in manufacturing efficiency, in developer relations, in marketing — were of a different order of magnitude than anything the gaming industry had seen. Trip Hawkins had tried to build a console from a startup. Atari had tried from a position of decline. Even NEC, with its TurboGrafx-16, had been a computer company dabbling in entertainment. Sony was none of these things. Sony was a world-class consumer electronics manufacturer that had decided, with the full backing of its corporate leadership, to conquer the gaming industry.[^36]
 
 And Sony had Ken Kutaragi, a man who understood hardware engineering at the deepest level and who had spent years nursing a grievance against Nintendo that gave his work a personal intensity bordering on vengeance.
+
+Kutaragi made the structural argument to Sato directly. The two men were the same age — born within months of each other in 1950 — and they had developed a surprisingly cordial personal relationship, dining together two or three times a year despite their corporate rivalry. Over one of those dinners, Kutaragi laid out the case with brutal clarity: "Sony had annual sales of 3 trillion yen... We made our own CD-ROM drives, our own semiconductors. We can make everything ourselves. Your cost structure was completely different."[^36a] It was not a taunt. It was a diagnosis. Sega relied on suppliers — Hitachi for processors, Yamaha for sound chips, NEC for graphics. Sony manufactured its own. The implication was inescapable: in a war of attrition on manufacturing costs, Sega could not win.
 
 Kutaragi did not merely design the PlayStation. He *evangelized* it. In May 1993, a team from Sony visited more than one hundred companies throughout Japan to attract developers, eventually securing initial support from Namco, Konami, Williams Entertainment, and 250 other development teams.[^37] Sony partnered with SN Systems to offer developer kits that used standard PCs as the development platform — a decision of quiet brilliance that meant any programmer with a PC could write PlayStation games without learning proprietary hardware tools. One developer reported receiving their kit and having models rendering on the actual PlayStation hardware within a week.[^38]
 
@@ -210,6 +214,8 @@ Whether those advantages would be enough was the question that hung over everyth
 
 [^12]: Sony cut all ties to Nintendo in May 1992 and began developing the PlayStation as a standalone console. The system launched in Japan in December 1994 and in North America in September 1995. See "Ken Kutaragi," Wikipedia; "PlayStation," Wikipedia.
 
+[^12a]: Sato recounted the failed Paramount-Sony acquisition of Sega in his Hitotsubashi University oral history. Ohga Norio came to negotiate, but the Paramount executive handling the deal died in a plane crash, collapsing the negotiations. CSK's Isao Okawa purchased Sega for approximately 8 billion yen instead. See Hitotsubashi University IIR Oral History, WP#18-21, Interview 3 Part 2 (Sato, 2018); sato-saturn-interview.md research document.
+
 [^13]: Sato joined Sega in April 1971 and was involved in virtually every major hardware project from the company's first microprocessor-based arcade game (approximately 1975) through all home consoles. See Sega-16, "Sega Stars: Hideki Sato"; VGC, "Hideki Sato Designer of Sega's Consoles Dies."
 
 [^14]: Sato was promoted to Managing Director and General Manager of Hardware Development and Design in June 1993. See Sega-16, "Sega Stars: Hideki Sato."
@@ -257,6 +263,8 @@ Whether those advantages would be enough was the question that hung over everyth
 [^35]: Sony was a $40 billion annual revenue consumer electronics company with global manufacturing and distribution infrastructure. See the contrast drawn by multiple industry analyses of the period.
 
 [^36]: Sony's entry into the console market represented the first time a major global consumer electronics corporation had committed fully to the gaming industry. See "Ken Kutaragi," Wikipedia; Museum of Play, "How Software Development Helped Make Sony's PlayStation the King of 1990s Consoles."
+
+[^36a]: Kutaragi's manufacturing advantage argument to Sato: "Sony had annual sales of 3 trillion yen... We made our own CD-ROM drives, our own semiconductors. We can make everything ourselves." Sato confirmed their friendly personal relationship and regular dinners. See Hitotsubashi University IIR Oral History, WP#18-21, Interview 3 Part 2 (Sato, 2018); sato-saturn-interview.md research document.
 
 [^37]: A Sony team visited more than 100 companies throughout Japan in May 1993 to attract developers, securing initial support from Namco, Konami, Williams Entertainment, and 250 other development teams. See Museum of Play, "How Software Development Helped Make Sony's PlayStation the King of 1990s Consoles."
 

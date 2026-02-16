@@ -20,6 +20,8 @@ The team was small — approximately three people, by Sato's own account.[^3] So
 
 An extra or a bonus. Not the future. Not a strategic imperative. A nice-to-have, pursued with the resources appropriate to a nice-to-have — which is to say, barely any resources at all.
 
+The staffing reflected the priority. At Sega, arcade development was where the best engineers gravitated — it was the company's core business, its source of prestige and profit. When management directed people to the consumer division, Sato recalled, "what showed up were the castoffs. A kind of dumping ground."[^5a] The home console team was not where Sega sent its stars. It was where people ended up when the arcade division had no further use for them. This was the institutional soil in which Sega's consumer business would have to take root — not in the company's best garden, but in the lot out back where the weeds grew.
+
 And yet the project had a champion in Hayao Nakayama, the former jukebox technician turned Sega executive who had been pushing the company toward diversification as the arcade market showed its first signs of strain.[^7] Nakayama understood something that his more conservative colleagues did not: a company that depended on a single revenue stream was a company that could be destroyed by a single shift in market conditions. The arcade business was profitable today, but "today" was not a strategy. If Sega could translate its hardware expertise into consumer products — even modestly, even experimentally — it would have options when the arcade market inevitably turned.
 
 The project that emerged from this tension — between Nakayama's ambition and the company's caution — was initially the SC-3000, a home computer with gaming capabilities.[^8] Home computers were having a moment in Japan; the MSX standard, backed by Microsoft and ASCII Corporation, was gaining traction, and NEC's PC-88 series was establishing itself as the dominant Japanese personal computer. A computer was a more defensible product than a pure game console — it had educational and productivity applications that could justify the purchase to parents who might have viewed a dedicated gaming machine as frivolous.
@@ -67,6 +69,10 @@ The market rendered its verdict quickly. The Famicom sold five hundred thousand 
 The SG-1000, by contrast, sold approximately 160,000 units in 1983.[^27]
 
 One hundred and sixty thousand. In the mathematics of the console market, it was a rounding error compared to the Famicom's trajectory. Customers were choosing Nintendo's machine over Sega's at a rate of roughly ten to one — a disparity so stark that it could not be attributed to marketing or distribution alone.[^28] The hardware gap was real. The Famicom was simply a better-designed game machine.
+
+Yet inside Sega, the number landed like a thunderclap. Sato himself had harbored no illusions about the machine's commercial appeal. "I'll be honest — the graphics were terrible," he admitted. "I thought, 'How is this going to sell?' Then it sold 160,000 units. Everyone was flabbergasted."[^28a] The company had prepared itself for a modest experiment and gotten something closer to a phenomenon — modest by Nintendo's standards, astonishing by Sega's.
+
+The sales owed a peculiar debt to Nintendo's own success. The Famicom was so popular that it sold out almost immediately, leaving frustrated customers with money in hand and no console to buy. Sato, ever the opportunist, saw the opening. He went to a department store during the year-end sales rush. "When customers came asking for the Famicom and it was sold out," he recalled with a laugh, "I'd say, 'Here, this is Sega's Famicom.'"[^28b] It was an absurd pitch — Sega's machine was emphatically not the Famicom — but it worked, because a parent who had promised a child a game console for Christmas was not inclined to quibble about brands.
 
 ---
 
@@ -194,6 +200,8 @@ He would address every item on it.
 
 [^5]: Sato's quote: "The reason was because the company saw video game consoles as an extra or bonus." Source: SegaBits, "Sega's Hideki Sato Talks About Creating the Mega Drive to Beat Nintendo," November 2018, https://segabits.com/blog/2018/11/06/segas-hideki-sato-talks-about-creating-the-mega-drive-to-beat-nintendo/.
 
+[^5a]: Sato's recollection of the consumer division: "Consumer business was marginal compared to arcade. When they said 'send people to the consumer division,' what showed up were the castoffs. A kind of dumping ground." Source: Hitotsubashi University IIR Oral History, WP#18-19, Interview 2 Part 2: Competition with Nintendo in Home Consoles.
+
 [^7]: Hayao Nakayama advocated for diversification into home consoles as the arcade market showed signs of strain. Source: Hayao Nakayama — Wikipedia, https://en.wikipedia.org/wiki/Hayao_Nakayama; History of Sega — Wikipedia.
 
 [^8]: The SC-3000 was a home computer with gaming capabilities, developed alongside the SG-1000. Source: Japanese Wikipedia; Shmuplations, "The History of Sega Console Hardware."
@@ -237,6 +245,10 @@ He would address every item on it.
 [^27]: The SG-1000 sold approximately 160,000 units in 1983, exceeding Sega's projection of 50,000 by more than triple. Source: Wikipedia, "SG-1000"; Shmuplations, "The History of Sega Console Hardware."
 
 [^28]: Sato acknowledged that customers chose the Famicom over the SG-1000 at a rate of roughly "ten for every one." Source: SegaBits, "Sega's Hideki Sato Talks About Creating the Mega Drive to Beat Nintendo."
+
+[^28a]: Sato's candid assessment of the SG-1000: "I'll be honest — the graphics were terrible. I thought, 'How is this going to sell?' Then it sold 160,000 units. Everyone was flabbergasted." Source: Hitotsubashi University IIR Oral History, WP#18-19, Interview 2 Part 2: Competition with Nintendo in Home Consoles.
+
+[^28b]: Sato's department store anecdote: "I went to a department store for year-end sales. When customers came asking for the Famicom and it was sold out, I'd say, 'Here, this is Sega's Famicom.'" Source: Hitotsubashi University IIR Oral History, WP#18-19, Interview 2 Part 2: Competition with Nintendo in Home Consoles.
 
 [^29]: Sega's internal projection for the SG-1000 was approximately 50,000 units. Source: Wikipedia, "SG-1000."
 

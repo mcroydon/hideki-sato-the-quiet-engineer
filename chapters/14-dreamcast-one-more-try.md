@@ -26,6 +26,10 @@ Accounts of what happened next vary depending on who is telling the story. One v
 
 Either way, by mid-1997, two teams were racing toward the same goal through radically different paths. The Blackbelt team in America, with their 3dfx chips and their Western engineering culture. And Sato's team in Japan, building something different — something that reflected everything Sato had learned, and everything he regretted, from fifteen years of making home consoles.
 
+What made the competition revealing was not just the technical differences but the cultural ones. The American team operated under a bonus structure that Sato found fascinating and, ultimately, self-defeating. "The American team prioritized goals with bonuses," he later explained. "Priority number one: cost — three-thousand-dollar bonus. Number two: performance — two-thousand-dollar bonus. So they'd cut anything that raised cost even if it improved performance."[^6a] The incentive structure told you everything. Cost was worth more than performance. The engineers optimized for their paychecks, which meant they optimized for cheapness.
+
+Sato's Japanese engineers had no bonuses. They worked on salary, as Japanese engineers did. But the absence of financial incentives did not mean the absence of agonizing over tradeoffs — it meant the opposite. "The Japanese engineers had no bonuses — just salary," Sato said. "But they'd agonize over every tradeoff: 'This adds two hundred yen but gives twenty percent more polygons.' I'd say: 'Do it.'"[^6b] Two hundred yen — roughly a dollar and a half. A trivial sum in the cost of a consumer electronics device. But the decision to spend it, multiplied across millions of units, was the difference between a console that was good enough and a console that was genuinely great. Sato's team optimized not for cost, not for bonuses, but for the machine itself. They were building the best thing they could build, because that was what engineers did when no one was paying them extra to do otherwise.
+
 Sato's design used a Hitachi SH-4 processor — the successor to the SH-2 chips that had powered the Saturn, but a generational leap forward in capability.[^7] For graphics, rather than the American 3dfx solution, Sato chose a chip from NEC and the British company VideoLogic: the PowerVR2.[^8] It was an unconventional choice. 3dfx was the established king of PC graphics, a company whose Voodoo cards were the standard by which all others were measured. PowerVR was a relative unknown, a scrappy competitor whose technology was impressive in theory but unproven in a console context.
 
 But Sato had his reasons — and they reveal, perhaps better than any other decision he ever made, how deeply the Saturn's failures had changed his thinking.
@@ -48,15 +52,39 @@ And then there was the memory. The Saturn had shipped with two megabytes of main
 
 The design philosophy was as clear as a bell: make it simple, make it powerful, and — above all — make it easy to develop for.
 
-## Winning the War
+## The Imperial Conference
 
-The competition between the two teams came to a head in a formal evaluation process. The stakes were existential — whichever design lost would be discarded, along with months of engineering work and the professional pride of the team that had built it. Sega could not afford to hedge its bets. One design would become the Dreamcast. The other would become nothing.
+The competition between the two teams came to a head in what Sato would later call the defining moment of his career — a formal showdown meeting to determine which design would become Sega's next console. The stakes were existential. Whichever design lost would be discarded, along with months of engineering work and the professional pride of the team that had built it. Sega could not afford to hedge its bets. One design would become the Dreamcast. The other would become nothing.
 
-Sato's team won.[^18]
+Sato walked into that meeting believing he was going to lose.
 
-The reasons were multiple and, depending on the source, weighted differently. The SH-4 was the only processor Sato believed could deliver the 3D geometry calculation performance the console needed, and it was still in development at Hitachi — meaning Sega would get a cutting-edge chip rather than an off-the-shelf part.[^19] The PowerVR2's efficiency-first rendering architecture offered more usable graphical power per transistor than the 3dfx approach. And there were practical considerations that transcended pure specifications: Sega had deep, established relationships with Hitachi and NEC, both Japanese companies, and the institutional trust built over years of collaboration mattered in a culture where supplier relationships were not merely transactional but relational.[^20]
+"Eventually there was a showdown meeting," he recalled. "Irimajiri had lobbied everyone — most of the company was on his side. He was president; I was just a managing director. I thought I had a ninety-five percent chance of losing."[^18]
 
-The 3dfx team was furious. The American chip maker had invested heavily in the partnership and had reportedly even begun telling investors and partners about its upcoming Sega deal. When the decision went against them, 3dfx filed a lawsuit alleging that Sega had misappropriated trade secrets during the evaluation process.[^21] The lawsuit was eventually settled, but the acrimony underscored the intensity of the competition and the magnitude of what was at stake. This was not a normal product development decision. This was Sega betting its existence on a chip architecture — and on the judgment of Hideki Sato.
+The arithmetic of power was straightforward. Irimajiri was the president of Sega — the man brought in specifically to rescue the company from its own failures, the man whose judgment on strategic direction was, by organizational design, supposed to be final. Sato was a managing director, a hardware engineer who had spent his career in labs and factories, not boardrooms. Irimajiri had the authority of his title, the backing of Sega of America, and the momentum of a narrative that blamed Sato's Saturn architecture for the company's near-death experience. The Blackbelt team represented the future — American technology, American engineering sensibility, a clean break from the supplier relationships and design philosophies that had produced the Saturn. Sato's team represented the past, or so the argument went.
+
+But then, as Sato tells it, something unexpected emerged that shifted the ground beneath the entire debate.
+
+"The president of Sega of America had been receiving stock from 3dfx," Sato revealed. "That was part of why he'd been pushing their architecture."[^18a] The revelation was damaging in a way that transcended the technical merits of either proposal. If the American team's champion had a financial interest in the outcome — if 3dfx employees had acquired stock options in anticipation of a deal that had not yet been announced — then the entire basis of the Blackbelt advocacy was compromised. The question was no longer simply which architecture was better. The question was whether the American proposal had been advanced on its engineering merits or on the financial interests of its backers.[^18b]
+
+The technical arguments still mattered, of course. The SH-4 was the only processor Sato believed could deliver the 3D geometry calculation performance the console needed, and it was still in development at Hitachi — meaning Sega would get a cutting-edge chip rather than an off-the-shelf part.[^19] The PowerVR2's efficiency-first rendering architecture offered more usable graphical power per transistor than the 3dfx approach. And there were practical considerations that transcended pure specifications: Sega had deep, established relationships with Hitachi and NEC, both Japanese companies, and the institutional trust built over years of collaboration mattered in a culture where supplier relationships were not merely transactional but relational.[^20]
+
+But it was Isao Okawa — the CSK chairman, Sega's ultimate patron and financial guarantor — who made the decisive call. And his reasoning was unlike anything Sato or anyone else in the room expected.
+
+"Sato has failed many times," Okawa said. "Eight-bit, Saturn, many failures. So he must have learned many things. Therefore, he probably won't fail this time."[^18c]
+
+It is worth pausing on this, because it may be the most important thing anyone ever said about Hideki Sato's career. In any conventional corporate evaluation, failure is a disqualification. The engineer whose designs lost in the marketplace would be the last person entrusted with the company's survival. Okawa inverted that logic entirely. Failure was not a disqualification — it was a credential. The man who had failed the most had learned the most. The man who had been burned by dual processors and missing SDKs and quadrilateral rendering pipelines would not make those mistakes again, because he had lived through the consequences of making them. Sato's scars were not liabilities. They were proof of education.
+
+"That's how it was decided," Sato said simply.[^18c]
+
+Sato's team won.
+
+The aftermath was sharp-edged and revealing. Irimajiri, the president who had staked his credibility on the American design, was incredulous. "This company is crazy," he told Sato. "How did your proposal win?"[^18d]
+
+Sato's response was the kind of thing a man says only when he has won a fight he expected to lose — and when he has had years to understand why he won it. "Why did you, as president, come down to my level to argue about hardware specs?" he told Irimajiri. "That's not your job. Because you descended to my level, I won — I have more battle experience."[^18d]
+
+It was a devastating observation, and a true one. Irimajiri was a brilliant executive, but he was not a hardware engineer. By entering the technical arena — by personally championing one architecture over another — he had abandoned the strategic high ground where his authority was unassailable and descended into a domain where Sato had been fighting, and losing, and learning, for fifteen years. On that ground, no one at Sega could beat Hideki Sato. Not because he was the smartest engineer in the building, but because he was the most experienced loser. He had failed more than anyone. He knew more about failure than anyone. And that knowledge, as Okawa had intuited, was the most valuable thing in the room.
+
+The 3dfx team was furious. The American chip maker had invested heavily in the partnership and had reportedly even begun telling investors and partners about its upcoming Sega deal. When the decision went against them, 3dfx filed a lawsuit alleging that Sega had misappropriated trade secrets during the evaluation process.[^21] The stock revelation only deepened the acrimony — what might have been a clean loss on technical merits became entangled with allegations of impropriety on all sides.[^21a] The lawsuit was eventually settled, but the episode underscored the intensity of the competition and the magnitude of what was at stake. This was not a normal product development decision. This was Sega betting its existence on a chip architecture — and on the judgment of a man whose greatest qualification, in the eyes of the one person whose opinion mattered most, was that he had failed more than anyone else in the company.
 
 ## Play and Communication
 
@@ -98,7 +126,11 @@ The arrangement was straightforward in concept and complex in execution. Microso
 
 That native environment was called Katana, and it was the other half of Sato's developer-friendliness initiative. The Katana SDK was Sega's own development toolkit, optimized specifically for the Dreamcast's hardware and offering the maximum possible performance.[^35] Most of the Dreamcast's highest-profile titles — Sonic Adventure, Soul Calibur, Shenmue — were built with Katana rather than Windows CE. But the availability of both options meant that developers could choose the approach that best suited their needs: maximum performance through Katana, or maximum familiarity through Windows CE.
 
-The contrast with the Saturn could not have been starker. Saturn developers had been thrown into the deep end — no libraries, no compilers at first, weeks lost just trying to get anything on screen.[^36] The Dreamcast's dual-SDK approach was a direct answer to that failure. If developers could not make games for your machine, it did not matter how powerful the machine was. The Saturn had taught Sato that lesson at a cost of billions of yen.
+The contrast with the Saturn could not have been starker. Saturn developers had been thrown into the deep end — no libraries, no compilers at first, weeks lost just trying to get anything on screen.[^36] The Dreamcast's dual-SDK approach was a direct answer to that failure, and Sato could quantify the improvement with a precision that revealed how deeply the Saturn's shortcomings had haunted him. "Learning from Saturn's mistakes, we produced a very good SDK for Dreamcast," he said. "Skilled third parties could get images on screen in about three hours with the new kit. With Saturn, the same thing had taken about a week."[^36a]
+
+Three hours versus a week. It was the kind of metric that did not appear in marketing materials or spec sheets, but it was the metric that mattered most to the people who actually made games. A developer who could see something on screen in three hours would keep working. A developer who spent a week staring at a blank monitor would start returning phone calls from Sony. Sato understood this now in a way he had not understood it during the Saturn era, when his internal teams — engineers who knew the hardware intimately — had been able to work around the missing tools, blinding him to how impossible the experience was for outsiders. The Dreamcast SDK was not just better than the Saturn's. It was the product of a specific, painful education in what happened when you treated developer tools as an afterthought.
+
+If developers could not make games for your machine, it did not matter how powerful the machine was. The Saturn had taught Sato that lesson at a cost of billions of yen.
 
 The Microsoft partnership carried another significance that no one fully appreciated at the time. Microsoft's engineers were learning, through the Dragon SDK collaboration, what it took to build a game console platform — the APIs, the driver models, the developer relations infrastructure. Within two years of the Dreamcast's launch, Microsoft would announce the Xbox, a console whose development had been directly informed by the lessons of the Windows CE partnership.[^37] Sato had, in a sense, trained his own future competitor. But in 1997 and 1998, that future was invisible. Microsoft was a software company. The idea that it would build its own console hardware seemed, to most observers, absurd.
 
@@ -166,6 +198,10 @@ The Dreamcast was Sato's finest machine. He built it as well as anyone could hav
 
 [^6]: Accounts vary on whether Sega formally tasked both teams or whether Sato initiated his team's work independently. One account suggests "Sato was bothered by Irimajiri's choice to begin development externally" and began work on his own initiative. See "Dreamcast," Wikipedia; Sega corporate history research.
 
+[^6a]: Sato's quote on American team incentive structures: "The American team prioritized goals with bonuses: Priority #1: Cost ($3,000 bonus). #2: Performance ($2,000). So they'd cut anything that raised cost even if it improved performance." Hitotsubashi University Institute of Innovation Research, Hideki Sato Oral History, Interview 3 (IIR Working Paper WP#18-21), February 1, 2018.
+
+[^6b]: Sato's quote on Japanese engineers: "The Japanese engineers had no bonuses — just salary. But they'd agonize over every tradeoff: 'This adds 200 yen but gives 20% more polygons.' I'd say: 'Do it.'" Hitotsubashi University Institute of Innovation Research, Hideki Sato Oral History, Interview 3 (IIR Working Paper WP#18-21), February 1, 2018.
+
 [^7]: The Hitachi SH-4 was the successor to the SH-2 processors used in the Saturn and 32X. While still in development at the time of selection, it represented a generational leap in capability. See "Dreamcast," Wikipedia; Copetti, "Dreamcast Architecture."
 
 [^8]: Sato chose the NEC/VideoLogic PowerVR2 (CLX2) graphics chip, integrated into a custom "Holly" ASIC. See "Dreamcast," Wikipedia; Copetti, "Dreamcast Architecture."
@@ -188,13 +224,23 @@ The Dreamcast was Sato's finest machine. He built it as well as anyone could hav
 
 [^17]: The Dreamcast's audio subsystem used a Yamaha AICA processor with a dedicated ARM7DI CPU running at approximately 2.82 MHz, supporting up to 64 PCM channels at 16-bit, 44.1 kHz quality, with 2 MB of dedicated audio SDRAM. See "Dreamcast," Wikipedia; Copetti, "Dreamcast Architecture."
 
-[^18]: Sato's design, using the Hitachi SH-4 and NEC/VideoLogic PowerVR2, was selected over the Blackbelt team's 3dfx-based design. See "Dreamcast," Wikipedia.
+[^18]: Sato's quote on the showdown meeting: "Eventually there was a showdown meeting. Irimajiri had lobbied everyone — most of the company was on his side. He was president; I was just a managing director. I thought I had a 95% chance of losing." Hitotsubashi University Institute of Innovation Research, Hideki Sato Oral History, Interview 3 (IIR Working Paper WP#18-21), February 1, 2018. See also "Dreamcast," Wikipedia.
+
+[^18a]: Sato's quote: "But then something unexpected emerged: the president of Sega of America had been receiving stock from 3dfx. That was part of why he'd been pushing their architecture." Hitotsubashi University Institute of Innovation Research, Hideki Sato Oral History, Interview 3 (IIR Working Paper WP#18-21), February 1, 2018.
+
+[^18b]: 3dfx was a publicly traded company at the time. Reports indicate that employees acquired stock options in anticipation of the Sega deal announcement, contributing to what became a scandal when the deal fell through. The SEC investigated insider trading allegations related to the premature disclosure of the partnership. See "3dfx Interactive," Wikipedia; "Dreamcast," Wikipedia.
+
+[^18c]: Okawa's decisive reasoning, as recounted by Sato: "'Sato has failed many times — 8-bit, Saturn, many failures. So he must have learned many things. Therefore, he probably won't fail this time.' That's how it was decided." Hitotsubashi University Institute of Innovation Research, Hideki Sato Oral History, Interview 3 (IIR Working Paper WP#18-21), February 1, 2018.
+
+[^18d]: Sato's exchange with Irimajiri after the decision: "Irimajiri said: 'This company is crazy. How did your proposal win?' I told him: 'Why did you, as president, come down to my level to argue about hardware specs? That's not your job. Because you descended to my level, I won — I have more battle experience.'" Hitotsubashi University Institute of Innovation Research, Hideki Sato Oral History, Interview 3 (IIR Working Paper WP#18-21), February 1, 2018.
 
 [^19]: The SH-4 was chosen as the only processor that "could adapt to deliver the 3D geometry calculation performance necessary." See "Dreamcast," Wikipedia.
 
 [^20]: Sega's existing relationships with Hitachi and NEC, both Japanese companies, influenced the decision. See "Dreamcast," Wikipedia; references to Charles Bellfield, Shiro Hagiwara, and Ian Oliver.
 
 [^21]: 3dfx filed a lawsuit against Sega and NEC following the decision to use the PowerVR2 instead of 3dfx technology. The suit alleged misappropriation of trade secrets. It was eventually settled. See "Dreamcast," Wikipedia.
+
+[^21a]: The 3dfx stock scandal became a significant element in the aftermath of the Dreamcast architecture competition. 3dfx employees had reportedly purchased stock options before the public announcement of a Sega partnership, which constituted potential insider trading. The revelation damaged the credibility of the American team's advocacy and contributed to the breakdown of the relationship between Sega and 3dfx. See Sato's account in the Hitotsubashi University Oral History (IIR Working Paper WP#18-21); "3dfx Interactive," Wikipedia.
 
 [^22]: The Dreamcast was the first home console to include a built-in modem as a standard feature in every unit. See "Dreamcast," Wikipedia; Shmuplations, "The History of Sega Console Hardware."
 
@@ -225,6 +271,8 @@ The Dreamcast was Sato's finest machine. He built it as well as anyone could hav
 [^35]: The Katana SDK was Sega's official native development toolkit for the Dreamcast, offering maximum hardware performance. Developer reception was generally positive, representing a dramatic improvement over Saturn-era tools. See Retro Reversing, "Dreamcast Katana Dev Kit"; "Dreamcast," Wikipedia.
 
 [^36]: Sato's quote about Saturn developer difficulties: "Without development libraries, they couldn't do anything. They'd take a week and barely even be able to get something to display on the screen." See Mega Drive Shock, "Hideki Sato Discussing the Sega Saturn."
+
+[^36a]: Sato's quote on Dreamcast SDK improvement: "Learning from Saturn's mistakes, we produced a very good SDK for Dreamcast. Skilled third parties could get images on screen in about three hours with the new kit. With Saturn, the same thing had taken about a week." Hitotsubashi University Institute of Innovation Research, Hideki Sato Oral History, Interview 4 (IIR Working Paper WP#19-02), February 1, 2018.
 
 [^37]: Microsoft's experience with the Windows CE partnership for Dreamcast informed its development of the Xbox. The Xbox launched in November 2001, incorporating many concepts from the collaboration. See "Dreamcast," Wikipedia.
 

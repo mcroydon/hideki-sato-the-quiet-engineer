@@ -7,12 +7,12 @@
 ## 1. Personal Details
 
 - **Full Name:** Hideki Sato (佐藤秀樹, also romanized as Hideki Satoh)
-- **Born:** November 5, 1948, in Hokkaido, Japan [Source: Sega-16 profile, https://www.sega-16.com/2006/10/sega-stars-hideki-sato/]
+- **Born:** November 5, 1950, in Ashibetsu, Hokkaido, Japan [Source: Hitotsubashi University IIR Oral History, WP#18-16; Sega-16 profile, https://www.sega-16.com/2006/10/sega-stars-hideki-sato/]
 - **Died:** February 13, 2026 [Source: Kotaku, https://kotaku.com/sega-genesis-hideki-sato-dies-dreamcast-2000668977; Beep21 original report]
 
-**Note on age discrepancy:** Most English-language obituaries report his age at death as 77, while VGC reported 75. The Sega-16 profile (2006) gives his birth date as November 5, 1950, and the Japanese Wikipedia article corroborates this. However, multiple recent obituaries (Kotaku, GAM3S.GG, The Gamer, Final Weapon) state age 77, which would imply a birth year of 1948. The Japanese-language search results from the earlier Wikipedia entry give a birth date of November 5, 1948 (some English summaries say 1950 but this appears to be an error in translation). Given the preponderance of "age 77" reports and the February 2026 death date, a birth year of 1948 is most consistent. [Sources: Multiple obituaries, February 2026]
+**Note on age discrepancy (RESOLVED):** The Hitotsubashi University oral history (2018) — a primary source in which Sato himself narrates his life — confirms a birth year of 1950 in Ashibetsu, Hokkaido. Most English-language obituaries reported his age at death as 77; this is consistent with *kazoedoshi* (数え年), the traditional East Asian age-counting system in which a person is counted as one at birth and gains a year each New Year's Day. Under Western age reckoning, Sato was 75 at the time of his death (born Nov 5, 1950; died Feb 13, 2026). VGC correctly reported his age as 75. The Sega-16 profile (2006) also gives 1950. [Sources: Hitotsubashi oral history; VGC; Sega-16]
 
-- **Birthplace:** Hokkaido, Japan [Source: Sega-16, https://www.sega-16.com/2006/10/sega-stars-hideki-sato/]
+- **Birthplace:** Ashibetsu (芦別), Sorachi District, Hokkaido, Japan [Source: Hitotsubashi University IIR Oral History, WP#18-16]
 
 ---
 
