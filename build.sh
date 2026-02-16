@@ -102,5 +102,35 @@ if [ "$PDF_BUILT" = false ]; then
 fi
 
 echo ""
+echo "=== Building Audiobook ==="
+EPUB="$OUTDIR/hideki-sato-the-quiet-engineer.epub"
+AUDIODIR="$OUTDIR/audiobook"
+VOICE="bm_george"
+VENV=".venv-audiobook"
+
+if [ ! -f "$EPUB" ]; then
+  echo "  EPUB not found — skipping audiobook (EPUB must be built first)"
+elif ! command -v uv &>/dev/null; then
+  echo "  uv not found. Install it:"
+  echo "    brew install uv"
+else
+  # Create venv if it doesn't exist (uvx doesn't work due to spaCy needing pip)
+  if [ ! -d "$VENV" ]; then
+    echo "  Creating Python 3.12 venv..."
+    uv venv --python 3.12 "$VENV" 2>&1
+    source "$VENV/bin/activate"
+    uv pip install audiblez pip 2>&1
+  else
+    source "$VENV/bin/activate"
+  fi
+  mkdir -p "$AUDIODIR"
+  echo "  Using voice: $VOICE"
+  echo "  Output: $AUDIODIR/"
+  echo "  This may take 1-2 hours..."
+  "$VENV/bin/audiblez" "$EPUB" -v "$VOICE" -o "$AUDIODIR" 2>&1 \
+    && echo "  -> $AUDIODIR/" || echo "  Audiobook build failed"
+fi
+
+echo ""
 echo "=== Done ==="
 ls -lh "$OUTDIR"/ 2>/dev/null
