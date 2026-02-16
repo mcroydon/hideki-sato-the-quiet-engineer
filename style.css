@@ -1,0 +1,156 @@
+/* Hideki Sato: The Quiet Engineer — Book Stylesheet */
+
+:root {
+  --text: #1a1a1a;
+  --bg: #fefefe;
+  --accent: #2c5f8a;
+  --muted: #666;
+  --rule: #ddd;
+  --max-width: 38em;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 18px;
+  line-height: 1.7;
+  color: var(--text);
+  background: var(--bg);
+  max-width: var(--max-width);
+  margin: 2em auto;
+  padding: 0 1.5em;
+}
+
+/* Title page */
+header#title-block-header {
+  text-align: center;
+  margin: 4em 0 3em;
+  padding-bottom: 2em;
+  border-bottom: 1px solid var(--rule);
+}
+
+header#title-block-header h1.title {
+  font-size: 2.4em;
+  font-weight: normal;
+  letter-spacing: 0.02em;
+  margin-bottom: 0.3em;
+}
+
+header#title-block-header .author {
+  font-size: 1.1em;
+  color: var(--muted);
+  font-style: italic;
+}
+
+/* Table of contents */
+nav#TOC {
+  margin: 2em 0 3em;
+  padding: 1.5em 2em;
+  border: 1px solid var(--rule);
+  background: #fafafa;
+}
+
+nav#TOC > ul { list-style: none; padding-left: 0; }
+nav#TOC ul ul { padding-left: 1.5em; }
+nav#TOC li { margin: 0.3em 0; }
+nav#TOC a { color: var(--text); text-decoration: none; }
+nav#TOC a:hover { color: var(--accent); }
+
+/* Chapter headings */
+h1 {
+  font-size: 1.8em;
+  font-weight: normal;
+  margin-top: 3em;
+  padding-top: 2em;
+  border-top: 1px solid var(--rule);
+  page-break-before: always;
+}
+
+h1:first-of-type {
+  border-top: none;
+  margin-top: 2em;
+}
+
+h2 {
+  font-size: 1.3em;
+  font-weight: normal;
+  font-style: italic;
+  color: var(--muted);
+  margin-top: 2em;
+}
+
+h3 { font-size: 1.1em; margin-top: 1.5em; }
+
+/* Body text */
+p { margin: 1em 0; text-align: justify; hyphens: auto; }
+
+/* Block quotes */
+blockquote {
+  margin: 1.5em 0 1.5em 1.5em;
+  padding-left: 1em;
+  border-left: 3px solid var(--rule);
+  color: var(--muted);
+  font-style: italic;
+}
+
+blockquote p { text-align: left; }
+
+/* Footnotes */
+.footnotes {
+  margin-top: 3em;
+  padding-top: 1em;
+  border-top: 1px solid var(--rule);
+  font-size: 0.85em;
+  line-height: 1.5;
+}
+
+.footnote-ref { font-size: 0.8em; vertical-align: super; }
+
+/* Tables */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5em 0;
+  font-size: 0.9em;
+}
+
+th, td {
+  padding: 0.5em 0.75em;
+  border-bottom: 1px solid var(--rule);
+  text-align: left;
+}
+
+th {
+  font-weight: bold;
+  border-bottom: 2px solid var(--text);
+}
+
+/* Horizontal rules */
+hr {
+  border: none;
+  border-top: 1px solid var(--rule);
+  margin: 2.5em 0;
+}
+
+/* Links */
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+/* Code (for any technical content) */
+code {
+  font-family: "SF Mono", Menlo, monospace;
+  font-size: 0.85em;
+  background: #f4f4f4;
+  padding: 0.1em 0.3em;
+  border-radius: 3px;
+}
+
+/* Print / PDF adjustments */
+@media print {
+  body { font-size: 11pt; max-width: none; margin: 0; padding: 0; }
+  h1 { page-break-before: always; }
+  .footnotes { font-size: 9pt; }
+  a { color: var(--text); }
+  nav#TOC { border: none; background: none; }
+}
