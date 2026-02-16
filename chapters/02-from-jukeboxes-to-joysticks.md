@@ -80,7 +80,7 @@ Gulf and Western, a conglomerate already under pressure from investors demanding
 
 Into this vacuum stepped the man who would reshape Sega's destiny and, in doing so, create the company that Hideki Sato would help build into a console powerhouse.
 
-Hayao Nakayama was not, by background or temperament, a corporate politician. Born in 1932, he had started his career in the amusement industry not in a boardroom but on his knees, as a jukebox repair technician.[^27] He understood these machines at the level of their springs and solenoids, their belt drives and coin mechanisms. From repair work, he moved into distribution, founding Esco Trading Company (Esco Boueki), a coin-operated machine distributor that Sega had eventually acquired, bringing Nakayama into the fold.[^28]
+Hayao Nakayama was not, by background or temperament, a corporate politician. Born in 1932, he had started his career in the amusement industry not in a boardroom but on the road, as a jukebox leasing salesman.[^27] He understood these machines at the level of their springs and solenoids, their belt drives and coin mechanisms. From leasing, he moved into distribution, founding Esco Trading Company (Esco Boueki), a coin-operated machine distributor that Sega had eventually acquired, bringing Nakayama into the fold.[^28]
 
 Nakayama was a pragmatist with a visionary streak — a combination that is rarer than it sounds. When Gulf and Western signaled its desire to exit, Nakayama saw not a crisis but an opening. Working with David Rosen, he arranged a management buyout of Sega's Japanese subsidiary in 1984. The financial backing came from CSK Corporation, a prominent Japanese software and services company whose chairman, Isao Okawa, had the resources and the appetite for a bold bet on entertainment technology.[^29]
 
@@ -241,8 +241,6 @@ From this unlikely origin, Sega would launch itself into a war for the living ro
 [^41]: Quote from a Sega of America executive describing the SOJ-SOA dynamic. See ResetEra discussion; Time Extension, May 2023.
 
 [^42]: *Monozukuri* (ものづくり) — literally "making things" — encompasses a broader philosophy of manufacturing as disciplined craft, synthesizing technological prowess with a spirit of dedication and the pursuit of perfection. See "Monozukuri," Wikipedia; Japan Intercultural.
-
-[^43]: The *senpai-kohai* (senior-junior) mentoring relationship was central to Japanese corporate life, with senior employees guiding juniors in both professional and cultural matters. See e-housing.jp; HirePundit.
 
 [^44]: Isao Okawa provided over $40 million toward Sega and in 1999 personally loaned the company $500 million. Before his death on March 16, 2001, he forgave all of Sega's debts to him and donated his personal shares totaling approximately $695.7 million. See "Isao Okawa," Wikipedia; Celebrity Net Worth; Sonic Stadium.
 

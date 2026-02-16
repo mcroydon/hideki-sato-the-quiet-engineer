@@ -110,9 +110,9 @@ The cruelest irony was one that Sato himself had identified: the company that pr
 
 The rivalry between the Saturn and the PlayStation had a personal dimension that went deeper than corporate competition. Kutaragi and Sato were the same age — Kutaragi just two or three months older — and they had developed a relationship that was, by Sato's own account, genuinely friendly. They dined together regularly, two or three times a year, two hardware engineers on opposite sides of a war that was consuming both their professional lives.[^59]
 
-It was at these dinners that Kutaragi made his case — not as a corporate rival but as something closer to a concerned elder. "Hideki-chan, please give up!" he would say, using the informal, almost affectionate diminutive.[^59a] "Hideki-chan, your company's hardware business model can't win against us, so why don't you all give up?"
+It was at these dinners that Kutaragi made his case — not as a corporate rival but as something closer to a peer who happened to be on the winning side. "Hideki-chan, please give up!" he would say, using the informal, almost affectionate diminutive.[^59a] "Hideki-chan, your company's hardware business model can't win against us, so why don't you all give up?"
 
-Kutaragi's argument was not about talent. It was about structure. "Sony has annual sales of three trillion yen," he explained. "We make our own CD-ROM drives. We make our own semiconductors. We can make everything ourselves." Sega, by contrast, had to purchase its components from Hitachi and Yamaha and a constellation of suppliers. "Your cost structure is completely different," Kutaragi told him. "The only way to compete is if both companies are on equal footing — and they're not."[^59b]
+Kutaragi's argument was not about talent. It was about structure. "You can't beat me," he told Sato. "Sony has its own factories, its own semiconductor capability. You're relying on suppliers. The only way to compete is if both companies are on equal footing — and they're not."[^59b]
 
 He was right about the math. Sony's vertical integration — the fact that it manufactured its own optical drives, its own custom chips, its own circuit boards — gave it an insurmountable cost advantage. Every component in the Saturn that Sato had to purchase from a supplier, Sony could produce in-house at a fraction of the price. It was the difference between a restaurant that grows its own vegetables and one that buys them at the market.
 
@@ -174,15 +174,7 @@ It was the statement of a man who had learned something about the limits of engi
 
 [^5]: Ken Kutaragi, born August 2, 1950, in Tokyo, was the son of a printing businessman. He joined Sony in 1975 and initially worked in digital research labs. See "Ken Kutaragi," Wikipedia; EBSCO Research Starters, "Ken Kutaragi."
 
-[^6]: Kutaragi secretly created the SPC700 sound chip for Nintendo's SNES while at Sony. His interest in gaming was sparked by his daughter's love of the Famicom. See "Ken Kutaragi," Wikipedia; "Super NES CD-ROM," Wikipedia.
-
 [^7]: Kutaragi was named one of TIME's 100 most influential people of 2004 and was called the "Gutenberg of Video Games." He was described as brash, outspoken, and a maverick among traditional Japanese executives. See "Ken Kutaragi," Wikipedia.
-
-[^8]: The Nintendo-Sony collaboration, beginning around 1988, called for Sony to create both a CD-ROM add-on for the SNES and a standalone "Play Station." The arrangement gave Sony a revenue cut on every SNES CD game sold. See "Super NES CD-ROM," Wikipedia.
-
-[^9]: At the Consumer Electronics Show in late May 1991, Sony announced its partnership with Nintendo. The following morning, Howard Lincoln, chairman of Nintendo of America, announced that Nintendo had signed a rival deal with Philips. See "Super NES CD-ROM," Wikipedia.
-
-[^10]: Most Sony executives wanted to abandon gaming after the Nintendo betrayal. Kutaragi reportedly threatened to leave the company if it didn't pursue his vision. See "Ken Kutaragi," Wikipedia; EBSCO Research Starters.
 
 [^11]: The PlayStation launched in Japan on December 3, 1994, and in North America on September 9, 1995. See "PlayStation," Wikipedia.
 
@@ -197,32 +189,6 @@ It was the statement of a man who had learned something about the limits of engi
 [^16]: The PlayStation accumulated a library of 1,284 released games. See "Nintendo 64," Wikipedia (comparative figures).
 
 [^17]: For the Saturn's 2D capabilities, VDP2 background planes, and RAM expansion cartridge, see Chapter 10: The Saturn's Architecture.
-
-[^18]: Both SH-2 processors shared the same bus and had problems accessing main system RAM simultaneously. Most developers couldn't effectively use both CPUs. See NeoGAF, "Saturn's Processor"; SegaXtreme, "About Saturn Dual CPUs."
-
-[^19]: The PlayStation accumulated a library of 1,284 released games. See "Nintendo 64," Wikipedia (comparative figures).
-
-[^20]: Sato chose Hitachi's SH processor (a RISC CPU still in development) over the Motorola MC68020, which Sega of America preferred. See Mega Drive Shock, "Hideki Sato Discussing the Sega Saturn."
-
-[^21]: Sato quote on the SH-2 choice: "I felt we needed to move in a new direction, to change things up." See Mega Drive Shock, "Hideki Sato Discussing the Sega Saturn."
-
-[^22]: When PlayStation's final specs showed 300,000 polygons, Sato added a second SH-2 processor. See Mega Drive Shock, "Hideki Sato Discussing the Sega Saturn."
-
-[^23]: The Saturn's dual 32-bit CPUs enabled "64-bit" marketing positioning. The system was marketed as having a "64-bit" architecture. See Mega Drive Shock, "Hideki Sato Discussing the Sega Saturn."
-
-[^24]: Both SH-2 CPUs shared the same bus and could not access system memory simultaneously. See Copetti, "Sega Saturn Architecture"; NeoGAF, "Saturn's Processor."
-
-[^25]: Quote from Sega's Kazuhiro Hamada on the difficulty of programming dual CPUs. See "Sega Saturn," Wikipedia.
-
-[^26]: The VDP1's use of quadrilateral primitives rather than industry-standard triangles made porting from other platforms difficult and created visual artifacts. See Copetti, "Sega Saturn Architecture."
-
-[^27]: The decision to add the second SH-2 was made at the last minute, after Sega learned the PlayStation would have full 3D capabilities. The quadrilateral rendering approach created challenges for cross-platform development. See SegaXtreme, "About Saturn Dual CPUs."
-
-[^28]: The Saturn's VDP2 could render up to four simultaneous 2D planes with hardware rotation, scaling, and transparency. It is widely considered the best 2D console ever made. See Copetti, "Sega Saturn Architecture"; "Sega Saturn," Wikipedia.
-
-[^29]: Treasure's Guardian Heroes (1996) and Radiant Silvergun (1998) became legendary showcases of Saturn capabilities. See "Sega Saturn," Wikipedia.
-
-[^30]: The RAM expansion cartridge slot allowed 1 MB or 4 MB additional RAM, enabling superior 2D fighting game ports such as Marvel Super Heroes vs. Street Fighter with tag-team switching intact. See "Sega Saturn," Wikipedia.
 
 [^31]: Sony partnered with nightclub owners like Ministry of Sound and festival promoters to create dedicated PlayStation demo areas, targeting young adults transitioning from 16-bit consoles. See Games Hub, "How PlayStation and UK Club Culture Forever Changed Gaming's Image."
 
@@ -245,10 +211,6 @@ It was the statement of a man who had learned something about the limits of engi
 [^40]: Saturn sold approximately 1.8 million units in North America. See "Sega Saturn," Wikipedia; VG Sales Wiki.
 
 [^41]: Saturn sold approximately 1.0 million units in Europe. The Genesis had captured 65% of the European console market during the 16-bit era. See "Sega Saturn," Wikipedia; "Sega Genesis," Wikipedia.
-
-[^42]: Each Saturn sold generated approximately 10,000 yen in losses due to expensive manufacturing. See Mega Drive Shock, "Hideki Sato Discussing the Sega Saturn."
-
-[^43]: Sega deliberately constrained Saturn production when software sales couldn't offset hardware costs. See Mega Drive Shock, "Hideki Sato Discussing the Sega Saturn."
 
 [^44]: Virtua Fighter 2 (1995) was a dramatically improved Saturn port that showcased what skilled programmers could achieve with the hardware, running at a locked 60 frames per second. See "Sega Saturn," Wikipedia.
 
@@ -282,25 +244,9 @@ It was the statement of a man who had learned something about the limits of engi
 
 [^59a]: "Hideki-chan, please give up!" and "Hideki-chan, your company's hardware business model can't win against us, so why don't you all give up?" — Kutaragi's dinner entreaties to Sato, using the informal diminutive "-chan." See Hitotsubashi University oral history (WP#18-21), as translated in Mega Drive Shock.
 
-[^59b]: "Sony had annual sales of 3 trillion yen... They made their own CD-ROM drives... We can make everything ourselves" — Kutaragi's explanation of Sony's vertical integration advantage. See Hitotsubashi University oral history (WP#18-21), as translated in Mega Drive Shock, "Hideki Sato Discussing the Sega Saturn."
+[^59b]: "You can't beat me. Sony has its own factories, its own semiconductor capability. You're relying on suppliers. The only way to compete is if both companies are on equal footing — and they're not." — Kutaragi's explanation of Sony's vertical integration advantage. See Hitotsubashi University oral history (WP#18-21), as translated in Mega Drive Shock, "Hideki Sato Discussing the Sega Saturn."
 
 [^59c]: Kutaragi's offer of "favorable treatment" for Sega as a third-party developer on PlayStation. See Hitotsubashi University oral history (WP#18-21), as translated in Mega Drive Shock.
-
-[^60]: Bernie Stolar's statement upon joining Sega as president and COO of Sega of America in 1996: "We have to kill the Saturn." See "Bernie Stolar," Wikipedia; Never Ending Realm.
-
-[^61]: Stolar's strategy included limiting Saturn software releases in the US market while preparing for the Dreamcast. See "Bernie Stolar," Wikipedia.
-
-[^62]: Sega's financial troubles actually began in late 1993, driven by North American retail return practices. See Mega Drive Shock, "Sega's Financial Troubles: An Analysis of Export Revenue, 1991-1998."
-
-[^63]: Sega of America's posted profits in 1993 were erased by extraordinary losses on returned stock, amounting to $100-$200 million. See Mega Drive Shock, "Sega's Financial Troubles."
-
-[^64]: The yen strengthened from $1 = ¥127 (1992) to $1 = ¥94 (1995), savaging the profitability of export revenue. See Mega Drive Shock, "Sega's Financial Troubles."
-
-[^65]: In fiscal year ending March 1998, Sega suffered its first consolidated financial loss since its 1988 Tokyo Stock Exchange listing — a net loss of ¥35.6 billion ($269.8 million). See Mega Drive Shock, "Sega's Financial Troubles"; "History of Sega," Wikipedia.
-
-[^66]: In FY1999, Sega posted an additional ¥42.881 billion consolidated net loss, with plans to eliminate 1,000 jobs — nearly a quarter of its workforce. See "Sega," Wikipedia; Reference for Business.
-
-[^67]: Hayao Nakayama resigned as president of Sega in January 1998, replaced by Shoichiro Irimajiri. See "Hayao Nakayama," Wikipedia.
 
 [^68]: Sony's marketing strategy positioned gaming as an adult lifestyle choice, targeting young adults through club culture, fashion-forward advertising, and countercultural positioning. See Games Hub; FORM.
 

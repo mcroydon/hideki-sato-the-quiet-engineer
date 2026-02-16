@@ -40,7 +40,7 @@ And underneath it all was the strategic fragmentation that had preceded the Satu
 
 In January 1998, Hayao Nakayama was removed as president of Sega.[^26]
 
-Nakayama had been the man who had pushed Sega into the console business in the first place — the jukebox repairman turned CEO who had seen the arcade downturn of the early 1980s as a reason to diversify into home hardware. Under his leadership, Sega had launched every console from the SG-1000 through the Saturn, had battled Nintendo to a near-draw in the sixteen-bit generation, and had built a company that at its peak generated more than three billion dollars in annual revenue. But the Saturn's failure was his failure, the surprise launch had been his mandate, and the financial irregularities that Okawa had uncovered — the billions in loans flowing to overseas subsidiaries — had happened on his watch. The official announcement framed it as a resignation. No one mistook it for anything else.[^26a]
+Nakayama had been the man who had pushed Sega into the console business in the first place — the jukebox repairman turned CEO who had seen the arcade downturn of the early 1980s as a reason to diversify into home hardware. Under his leadership, Sega had launched every console from the SG-1000 through the Saturn, had battled Nintendo to a near-draw in the sixteen-bit generation, and had built a company that at its peak generated more than three billion dollars in annual revenue. But the Saturn's failure was his failure, the surprise launch had been his mandate, and the financial arrangements that Okawa had uncovered — the billions in loans flowing to overseas subsidiaries — had happened on his watch. The official announcement framed it as a resignation. No one mistook it for anything else.[^26a]
 
 His replacement was an outsider — and a deliberate one.
 
@@ -126,9 +126,7 @@ Now he stood at the hinge point. Behind him was the wreckage of the thirty-two-b
 
 Sato knew, with the certainty that only comes from having lived through failure, exactly what the Dreamcast needed to be. It needed to be simple where the Saturn had been complex. Accessible where the Saturn had been opaque. Forward-looking where the Saturn had been reactive. It needed to be a machine that developers could understand and exploit, that consumers could afford, that could compete not just on the basis of raw power but on the basis of *ideas* — new directions, new angles, new ways of thinking about what a console could do.
 
-"With graphics and sounds, if you don't increase the power of a new console by a magnitude of times one hundred, the average user won't really notice the change," he had said. "That's why you have to find some new direction, some new angle, when you create a new console."[^47]
-
-The new direction was already forming in his mind. It had a modem in it.
+"With graphics and sounds, if you don't increase the power by magnitude of x100, users won't notice," he had said. "The modem represents that new direction."[^47]
 
 ---
 
@@ -207,4 +205,4 @@ The new direction was already forming in his mind. It had a modem in it.
 
 [^46]: In 1998, Sato held the title of Corporate Senior Vice President, Deputy General Manager of Consumer Business. He had joined Sega in April 1971. See Sega-16, "Sega Stars: Hideki Sato."
 
-[^47]: Sato: "With graphics and sounds, if you don't increase the power of a new console by a magnitude of x100, the average user won't really notice the change. That's why you have to find some new direction, some new angle, when you create a new console." See search results citing Sato interviews.
+[^47]: Sato: "With graphics and sounds, if you don't increase the power by magnitude of x100, users won't notice...The modem represents that new direction." See Shmuplations, "The History of Sega Console Hardware" (Famitsu DC, November 1998).

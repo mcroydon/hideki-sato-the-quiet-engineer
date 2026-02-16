@@ -98,7 +98,7 @@ Sato was not naive about the Saturn's limitations. He knew the hardware was diff
 
 What Sato could not fix from Tokyo was the marketing disaster unfolding in America. He could not undo the surprise launch, could not restore the retail relationships that had been severed, could not close the $100 price gap with the PlayStation. He was an engineer watching a business catastrophe — and he was powerless to stop it, because the decisions destroying his machine were being made far above his pay grade and far outside his area of expertise.
 
-Years later, Sato would frame the Saturn's destruction not as a conflict between Japan and America — the narrative that most retrospectives favored — but as something more systemic. "Internal division conflicts that lacked synergy," he called it — the organizational silos between Sega's arcade division, its consumer hardware team, its Japanese management, and its American subsidiary, all operating in parallel rather than in concert.[^33] The Saturn had not been killed by its architecture. It had been killed by the architecture of the company that built it.
+Years later, Sato would frame the Saturn's destruction not as a conflict between Japan and America — the narrative that most retrospectives favored — but as something more systemic. Sato emphasized that organizational silos — internal division conflicts between arcade and consumer groups that lacked synergy — prevented Sega from competing effectively.[^33] The Saturn had not been killed by its architecture. It had been killed by the architecture of the company that built it.
 
 ## The Developers Revolt
 
@@ -238,10 +238,6 @@ It was the hardest lesson an engineer could learn. And Sato, characteristically,
 
 [^30]: When PlayStation's final specs showed strong 3D capabilities, Sato added a second SH-2 processor, making the Saturn the first home console using multi-processors. See Mega Drive Shock.
 
-[^31]: Sato quote on Saturn difficulty: "The hardware was incredibly difficult to use." See Mega Drive Shock, "Hideki Sato Discussing the Sega Saturn."
-
-[^32]: Quote from Sega's Kazuhiro Hamada on the difficulty of programming dual CPUs. See "Sega Saturn," Wikipedia; Mega Drive Shock.
-
 [^33]: Sato described Sega's dysfunction as "internal division conflicts that lacked synergy," emphasizing organizational silos between arcade and consumer groups rather than the Japan-vs-America narrative that most retrospectives favored. See Hitotsubashi University oral history (WP#18-21), as translated in Mega Drive Shock, "Hideki Sato Discussing the Sega Saturn."
 
 [^34]: The Saturn surprise launch yielded only six games, all published by Sega, because third-party titles were scheduled around the original September launch date. See "Sega Saturn," Wikipedia.
@@ -291,5 +287,3 @@ It was the hardest lesson an engineer could learn. And Sato, characteristically,
 [^56]: Nakayama resigned as president of Sega in January 1998 in favor of Shoichiro Irimajiri. See "Hayao Nakayama," Wikipedia.
 
 [^57]: Sato expressed regret about not basing the Saturn on Sega's Model 1 arcade board architecture. See Market Research Telecast; SegaXtreme forums citing Beep21 interviews.
-
-[^58]: Sato quote on content vs. hardware: "The most important thing is the attractiveness of the contents we will supply. Game hardware is just a box to deliver those contents." See Sega-16, "Sega Stars: Hideki Sato."

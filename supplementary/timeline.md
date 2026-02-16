@@ -11,9 +11,8 @@
 | **1950** | Hideki Sato born November 5 in Ashibetsu (芦別), a coal mining town in the Sorachi District of Hokkaido, Japan; eldest of three children | — |
 | **1951** | Standard Games relocates to Tokyo, renamed Service Games | — |
 | **1952** | Service Games of Japan opens Tokyo distribution office (February 15) | — |
-| **1954** | — | Texas Instruments begins commercial production of silicon transistors |
+| **1954** | David Rosen founds Rosen Enterprises in Tokyo; by 1957, the company shifts to importing coin-operated machines | Texas Instruments begins commercial production of silicon transistors |
 | **1956** | Service Games shortens its name to Sega (from **Se**rvice **Ga**mes) | — |
-| **1960** | David Rosen founds Rosen Enterprises in Tokyo, importing coin-operated machines | — |
 | **~1963** | Sato's family moves from Hokkaido to Hachioji, Tokyo; his father takes permanent work at Prince Motors (later absorbed by Nissan) after the decline of Hokkaido's local timber industry | — |
 | **1965** | Sega and Rosen Enterprises merge to form Sega Enterprises, Ltd., with Rosen as CEO | — |
 | **1966** | Sega releases *Periscope*, a major international arcade hit | — |
@@ -23,7 +22,7 @@
 | **1972** | — | Atari founded; *Pong* released |
 | **1973** | Sega introduces commercial video games in Japan | — |
 | **1975** | Sato helps develop *Rodeo*, one of Sega's first microprocessor-based arcade games | Microsoft founded |
-| **~1978** | Sato is among seven Sega employees sent to Gremlin Industries in Los Angeles for two months to learn software development; inherits the system board philosophy (one board, swap software) that will define Sega's arcade architecture strategy | — |
+| **~1978** | Sato is among seven Sega employees sent to Gremlin Industries in Los Angeles for approximately three weeks to learn software development; inherits the system board philosophy (one board, swap software) that will define Sega's arcade architecture strategy | — |
 | **1978** | — | Taito's *Space Invaders* ignites the golden age of arcade games in Japan |
 | **1979** | — | Atari 2600 reaches mass-market penetration in the US |
 | **1980** | — | Namco releases *Pac-Man*; Nintendo releases *Game & Watch* |

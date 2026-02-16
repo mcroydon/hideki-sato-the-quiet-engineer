@@ -38,7 +38,7 @@ He went to see the placement teacher, who offered him a single option: Fujisoku,
 
 The teacher was furious. "You come to me this late, I'm offering you the one place where I have connections, and you say it's boring? Fine. Go upstairs to the career resource room and find something yourself."[^14]
 
-So he did. In the career resource room, Sato first pulled the brochure for Tomy, the toy company. He went to their office. It was already closed for recruiting season.[^15] He went back to the brochures.
+So he did. In the career resource room, Sato first pulled the brochure for Tomy, the toy company. He called their office. Recruiting was already closed.[^15] He went back to the brochures.
 
 And there, among the remaining pamphlets that no one else had picked up, he found Sega.
 
@@ -182,7 +182,7 @@ The age of the console was about to begin.
 
 [^14]: Direct quotes from Sato recounting his exchange with the placement teacher about Fujisoku. Source: Hitotsubashi University IIR Oral History, WP#18-17.
 
-[^15]: Sato attempted to apply to Tomy (the toy company) but found their recruiting already closed. Source: Hitotsubashi University IIR Oral History, WP#18-17.
+[^15]: Sato called Tomy (the toy company) but found their recruiting already closed. Source: Hitotsubashi University IIR Oral History, WP#18-17.
 
 [^16]: Details of the Sega brochure (slot machines, arcade games, jukeboxes, foreign ownership, half-day Fridays, starting salary of approximately 32,000 yen, Ōtorii station location) and Sato's decision to visit in person rather than call. Source: Hitotsubashi University IIR Oral History, WP#18-17.
 

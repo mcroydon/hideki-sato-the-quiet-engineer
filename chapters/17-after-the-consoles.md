@@ -54,7 +54,7 @@ Sato stepped down as president in the middle of 2003, becoming first a non-execu
 
 On May 26, 2004, Sega and Sammy announced that they would merge operations by becoming subsidiaries of a new holding company, Sega Sammy Holdings, in October. The combined entity's projected revenue for fiscal year 2005 was 501 billion yen — roughly $4.4 billion — making it one of the largest gaming companies in Japan.[^31] The deal was valued at approximately $1.45 billion.
 
-There was an almost poetic detail in the merger that few commentators noticed at the time. Sammy's first-generation *Fist of the North Star* pachinko machines — released in the early 2000s and destined to become the best-selling pachinko series of all time — ran on discontinued Dreamcast hardware.[^32] The console that had failed in the marketplace was finding a second life inside gambling machines, its PowerVR graphics chip rendering the explosive martial arts animations that pachinko players fed coins to watch. Sato's final console, rejected by the global gaming market, was thriving in the pachinko parlors of Japan. The irony was exquisite: Sega had begun with slot machines and jukeboxes on military bases, and now its most sophisticated consumer hardware was driving the internal guts of a different kind of amusement machine entirely.
+There was an almost poetic detail in the merger that few commentators noticed at the time. Sammy's first-generation *Fist of the North Star* pachislot machines — released in the early 2000s and destined to become the best-selling pachislot series of all time — ran on discontinued Dreamcast hardware.[^32] The console that had failed in the marketplace was finding a second life inside gambling machines, its PowerVR graphics chip rendering the explosive martial arts animations that pachislot players fed coins to watch. Sato's final console, rejected by the global gaming market, was thriving in the pachinko parlors of Japan. The irony was exquisite: Sega had begun with slot machines and jukeboxes on military bases, and now its most sophisticated consumer hardware was driving the internal guts of a different kind of amusement machine entirely.
 
 ## The Elder Statesman
 
@@ -102,7 +102,7 @@ Hideki Sato spent the final years of his life in relative privacy, far from the 
 
 At some point in the 2020s, *Beep21* — a Japanese gaming magazine with deep roots in Sega's history — began working with Sato on an extensive interview series called "Sega Hard Historia," a complete accounting of Sega's hardware legacy told through the recollections of the man who had designed it.[^50] The magazine was also compiling a new book about Sato and his work, an effort to preserve and amplify the record he had spent his later years constructing.
 
-In the Hitotsubashi oral history, conducted years earlier but published with the unhurried patience of academic research, Sato had spoken about the end of Sega's hardware era with a candor that press conferences had never permitted. "Since 1983, I'd been doing consumer hardware," he told the interviewers. "To have given birth to and raised these products, only to be the one to bury them... That was the end."[^50a] He returned to the image more than once, as though the metaphor had lodged itself somewhere permanent. "It felt like burying my own child."[^50b]
+In the Hitotsubashi oral history, conducted years earlier but published with the unhurried patience of academic research, Sato had spoken about the end of Sega's hardware era with a candor that press conferences had never permitted. "Since 1983, I'd been doing consumer hardware," he told the interviewers. "To have given birth to and raised these products, only to be the one to bury them... That was the end."[^50a] The metaphor he returned to was one of parenthood — to have created these machines and nurtured them, only to be the one who had to bury them.[^50b]
 
 He spoke, too, about what had come after — the dream that going multiplatform would liberate Sega's game designers, that the open waters of the PlayStation and Nintendo ecosystems would be fertile rather than hostile. "Many at Sega believed that on PlayStation and Nintendo, our games would sell like crazy," he said. "What actually happened: we brought Virtua Fighter to market and Tekken was already there. Going into the open ocean, we discovered it was full of sharks."[^50c]
 
@@ -185,11 +185,11 @@ He was the father of the hardware. And in the end, the hardware had set the soft
 
 [^29]: Sato stepped down as president in 2003 (per Japanese sources), becoming non-executive chairman and then vice chairman. See Japanese Wikipedia; Sega-16.
 
-[^30]: Sato retired from Sega in June 2004, per Japanese Wikipedia.
+[^30]: Sato retired from Sega in June 2004, per Japanese Wikipedia. However, Sato himself states in the Hitotsubashi University oral history that he left Sega in 2008, suggesting he may have retained an advisory or consulting role after stepping down from his formal position in June 2004.
 
 [^31]: On May 26, 2004, Sega and Sammy announced they would merge operations in October by becoming subsidiaries of Sega Sammy Holdings. Combined projected revenue for FY2005 was 501 billion yen ($4.4 billion). The deal was valued at approximately $1.45 billion. See "Sega Sammy Holdings," Wikipedia; GameSpot.
 
-[^32]: Sammy's first-generation *Fist of the North Star* pachinko machines ran on discontinued Dreamcast hardware. The franchise went on to become the best-selling pachinko series of all time. See "Pachinko," Wikipedia.
+[^32]: Sammy's first-generation *Fist of the North Star* pachislot machines ran on discontinued Dreamcast hardware. The franchise went on to become the best-selling pachislot series of all time. See "Pachislot," Wikipedia; WP#19-02.
 
 [^33]: The *senpai-kohai* (senior-junior) relationship is central to Japanese professional life, with respect for institutional knowledge and accumulated wisdom persisting beyond active employment. See e-housing.jp; HirePundit.
 
@@ -229,7 +229,7 @@ He was the father of the hardware. And in the end, the hardware had set the soft
 
 [^50a]: "Since 1983, I'd been doing consumer hardware. To have given birth to and raised these products, only to be the one to bury them... That was the end." Sato, Hitotsubashi University IIR Oral History, Interview 3 Part 2 (WP#18-21): "Saturn, Dreamcast, and Transition to Software."
 
-[^50b]: "It felt like burying my own child." Sato, Hitotsubashi University IIR Oral History, Interview 3 Part 2 (WP#18-21). The metaphor of parenthood recurred throughout Sato's reflections on the hardware he designed, consistent with his use of "gave birth to and raised" in the preceding quote.
+[^50b]: Paraphrase based on the parenthood imagery Sato used throughout the Hitotsubashi University IIR Oral History, Interview 3 Part 2 (WP#18-21). The translated primary source does not contain the phrase "burying my own child" verbatim; the actual language is "To have given birth to and raised these products, only to be the one to bury them... That was the end." The paraphrase here captures the recurring metaphor without attributing specific words not found in the source.
 
 [^50c]: "Many at Sega believed that on PlayStation and Nintendo, our games would sell like crazy. What actually happened: we brought Virtua Fighter to market and Tekken was already there. Going into the open ocean, we discovered it was full of sharks." Sato, Hitotsubashi University IIR Oral History, Interview 3 Part 2 (WP#18-21).
 

@@ -134,7 +134,7 @@ Meanwhile, the competitive picture was becoming clearer — and more daunting.
 
 Nintendo's Famicom was not merely winning the market; it was constructing an ecosystem that would prove almost impossible to dislodge. Under Hiroshi Yamauchi's imperious leadership, Nintendo was building a vertically integrated empire. The company controlled the hardware, the manufacturing of game cartridges, and the licensing terms under which third-party developers could publish games. Through the 10NES lockout chip — installed in the Western NES — Nintendo determined which software could run on its platform at all.[^40]
 
-The licensing terms were severe. Developers could release no more than two games per year for the Famicom. Nintendo was the sole manufacturer of all cartridges, meaning publishers paid upfront before a single unit was sold. Cartridges could not be returned — publishers bore all the inventory risk.[^41] The terms were onerous, but the Famicom had the players, which meant it had the audience, which meant it was the only platform that mattered. Nintendo controlled the platform, so developers published for Nintendo, so players bought Nintendo, so Nintendo controlled the platform. A self-reinforcing cycle that Sega had no means of breaking.
+The licensing terms were severe. Developers could release no more than five games per year for the Famicom. Nintendo was the sole manufacturer of all cartridges, meaning publishers paid upfront before a single unit was sold. Cartridges could not be returned — publishers bore all the inventory risk.[^41] The terms were onerous, but the Famicom had the players, which meant it had the audience, which meant it was the only platform that mattered. Nintendo controlled the platform, so developers published for Nintendo, so players bought Nintendo, so Nintendo controlled the platform. A self-reinforcing cycle that Sega had no means of breaking.
 
 Sega had nothing comparable. The SG-1000's small installed base could not attract the kind of third-party support that the Famicom commanded. Most SG-1000 games were developed internally by Sega, drawing on the company's arcade portfolio — functional ports of proven arcade titles, competently executed but lacking the breadth and variety that an army of independent developers could provide.[^42]
 
@@ -274,7 +274,7 @@ He would address every item on it.
 
 [^40]: Nintendo's 10NES lockout chip (CIC) was embedded in every NES console and authorized cartridge, giving Nintendo total control over which games could run on its platform. Source: Wikipedia, "CIC (Nintendo)," https://en.wikipedia.org/wiki/CIC_(Nintendo).
 
-[^41]: Nintendo's licensing terms: no more than two games per publisher per year; Nintendo sole cartridge manufacturer; non-returnable inventory; content restrictions. Source: Wikipedia, "CIC (Nintendo)"; Medium, "The Nintendo Seal of Quality."
+[^41]: Nintendo's licensing terms: no more than five games per publisher per year; Nintendo sole cartridge manufacturer; non-returnable inventory; content restrictions. Source: Wikipedia, "CIC (Nintendo)"; Medium, "The Nintendo Seal of Quality."
 
 [^42]: Most SG-1000 games were developed internally by Sega, drawing on the company's arcade portfolio. Third-party support was limited due to the small installed base. Source: Wikipedia, "SG-1000"; Shmuplations, "The History of Sega Console Hardware."
 
